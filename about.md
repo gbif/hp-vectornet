@@ -1,92 +1,39 @@
 ---
-lang-ref: about
 title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/moss.jpg
+layout: heroImage
+description: VectorNet is a project of the European Centre for Disease Control (ECDC) and the European Food Safety Authority (EFSA) which aims to contribute to improving preparedness and response for vector-borne diseases, following a ‘One-Health’ approach.
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/39884608/original.jpg
 imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+  By budak via [iNaturalist](https://www.inaturalist.org/photos/39884608) CC-BY-NC 4.0
 height: 70vh
+toc: true
 ---
 
-## Procris quippe mentior urbes ubi
+## VectorNet
+VectorNet is a project of the European Centre for Disease Control (ECDC) and the European Food Safety Authority (EFSA) which aims to contribute to improving preparedness and response for vector-borne diseases, following a ‘One-Health’ approach.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+VectorNet started in May 2014, and is now running its third iteration (2024–2029). VectorNet supports the collection of data on vectors and pathogens in vectors related to both animal and human health. The project is structured in 5 work packages, fostering Collaboration, Preparedness, Agility, Communication and Project coordination and management.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+![some figure text](/assets/images/placeholders/vn1.png){:standalone .has-text-centered}
 
-## Quam ex te videt
+Vectornet maintains a common database on the presence and distribution of vectors and pathogens in vectors across Europe and the Mediterranean basin. The project is operated by a consortium including the following VectorNet experts. The vectornet database is uploaded periodically on the GBIF Vectornet Data portal.
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
+## VectorNet experts
 
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
+| Expertise         | Lead                   | Deputy                 |
+|------------------|-----------------------|------------------------|
+| Mosquitoes       | Alessandra della Torre | Francis Schaffner      |
+| Ticks           | Annapaola Rizzoli       | Kayleigh Hansford      |
+| Sand flies      | Vít Dvořák              | Bulent Alten          |
+| Culicoides      | Thomas Balenghien       | Maria Goffredo        |
+| Vector Control  | Antonios Michaelakis    | Francis Schaffner      |
+| Epidemiology    | René Bødker             | Veerle Vanlerberghe   |
+| Trials         | Veerle Vanlerberghe     | Wim Van Bortel        |
+| Data analysis   | Kamil Erguler           | Cedric Marsboom       |
+| SLR            | Wim Van Bortel          | Francesca Dagostin    |
+| Data manager   | Tom Matheussen          | William Wint          |
+| GIS            | William Wint            | Cedric Marsboom       |
+| Project management | Cedric Marsboom      | Marieta Braks         |
 
-### Turbatque promittat memorque
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
 
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
-
-[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.

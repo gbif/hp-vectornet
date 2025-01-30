@@ -68,3 +68,27 @@ herbariumImageExample:
   - text: Download report
     href: http://example.com
     isPrimary: true
+
+contribute:
+  title: Read more
+  description: |
+    Some descrption coul optinally go here
+  features:
+    - title: Data entry tool
+      description: Some descrption coul optinally go here
+      href: /contribute/data-entry-tool
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/211057756/original.jpeg
+      imageLicense: |
+        By Jörg Pageler via [iNaturalist](https://www.inaturalist.org/photos/211057756) CC-BY-NC 4.0
+    - title: Validation pipeline
+      description: Some descrption coul optinally go here
+      href: /contribute/validation-pipeline
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/211057756/original.jpeg
+      imageLicense: |
+        By Jörg Pageler via [iNaturalist](https://www.inaturalist.org/photos/211057756) CC-BY-NC 4.0
+    - title: Surveillance Guidances
+      description: Some descrption coul optinally go here
+      href: /contribute/surveillance-guidances
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/211057756/original.jpeg
+      imageLicense: |
+        By Jörg Pageler via [iNaturalist](https://www.inaturalist.org/photos/211057756) CC-BY-NC 4.0

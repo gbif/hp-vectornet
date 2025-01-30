@@ -1,23 +1,54 @@
 ---
-lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "/assets/images/image.png"
+title: |
+  <div><span class="custom-orange">Vector</span><span class="custom-green">Net</span></div>
+  <div>Data portal</div>
+description: Sharing validated data on vector occurrences in Europe, to improve preparedness for vector-borne diseases
+background:  "/assets/images/placeholders/image.png"
 imageLicense: Unknown but should be written here
 height: 90vh
 cta:
   - text: Occurrences
     href: /occurrence/search
     isPrimary: true
+  - text: About
+    href: /about
+  - text: Contribute
+    href: /contribute
+  - text: Related
+    href: /related
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
-  - type: split
-    data: examples.herbariumImageExample
   - type: features
     data: examples.couldBeAnyName
+  - type: split
+    data: examples.herbariumImageExample
+  - type: dashboard
+    inlineData:
+      klass: exampleDashboard
+      title: "Metrics"
+      description: |
+        Title and description is optional. On this dashboard we show metrics for the filter `gadmGid: TZA.12.7_1` (Serengeti in GADM)
+      config:
+        predicate:
+          type: equals
+          key: gadmGid
+          value: "TZA.12.7_1"
+        charts:
+          [
+            occurrenceSummary,
+            dataQuality,
+            occurrenceIssue,
+            iucnCounts,
+            iucn,
+            year,
+            datasetKey,
+            taxa,
+          ]
+        # currently available types as of march 2024: [iucn, license, basisOfRecord, year, synonyms, iucnCounts, country, continent, dwcaExtension, eventId, gadmGid, mediaType, networkKey, publisherKey, publishingCountryCode, protocol, sampleSizeUnit, samplingProtocol, typeStatus, waterBody, collectionCode, institutionCode, stateProvince, identifiedBy, recordedBy, establishmentMeans, month, preparations, datasetKey, taxa, occurrenceIssue, dataQuality, occurrenceSummary, collectionKey, institutionKey, catalogNumber]
+  - type: pageMarkdown
+  - type: stats
+    data: examples.stats
 permalink: /
 ---
 

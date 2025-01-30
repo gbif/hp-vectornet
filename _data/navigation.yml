@@ -15,6 +15,9 @@
     href: /occurrence/search?taxonKey=9164
 - text: Contribute
   menu: # Dropdown menu (one level deep only)
+  - text: How to contribute
+    href: /contribute
+  - text: ----------
   - text: Data entry tool
     href: /contribute/data-entry-tool
   - text: Validation pipeline
@@ -27,6 +30,9 @@
     href: /contribute/validators
 - text: About Vectornet
   menu: # Dropdown menu (one level deep only)
+  - text: About VectorNet
+    href: /about
+  - text: ----------
   - text: Partners
     href: /about/partners
   - text: Objectives
@@ -39,6 +45,9 @@
     href: /about/reports
 - text: Related
   menu: # Dropdown menu (one level deep only)
+  - text: Related networks
+    href: /related
+  - text: ----------
   - text: VBD-Networks
     href: /related/vbd-networks
   - text: Entomology networks
