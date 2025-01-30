@@ -3,17 +3,13 @@ lang-ref: home
 layout: home
 title: Template headline
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+background:  "/assets/images/image.png"
+imageLicense: Unknown but should be written here
 height: 90vh
 cta:
-  - text: Institutions
-    href: /institution/search
+  - text: Occurrences
+    href: /occurrence/search
     isPrimary: true
-  - text: Specimens
-    href: /specimen/search
-  - text: About
-    href: /about
 composition:
   - type: heroImage # the block type
   - type: stats

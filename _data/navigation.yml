@@ -1,36 +1,49 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /about
-# - text: Occurrences
-#   href: /occurrence/search
-- text: Data
-  menu: 
-  - text: Occurrences
+- text: Occurrences
+  menu: # Dropdown menu (one level deep only)
+  - text: All records
     href: /occurrence/search
-  - text: Institutions
-    href: /institution/search
-  - text: Collections
-    href: /collection/search
-- text: Example pages
+  - text: ----------
+  - text: Mites
+    href: /occurrence/search?taxonKey=1425
+  - text: Mosquitoes
+    href: /occurrence/search?taxonKey=3346
+  - text: Biting midges
+    href: /occurrence/search?taxonKey=3340
+  - text: Sandflies
+    href: /occurrence/search?taxonKey=9164
+- text: Contribute
   menu: # Dropdown menu (one level deep only)
-  - text: Simple
-    href: /example-pages/simple
-  - text: Complex
-    href: /example-pages/complex
-- text: Links
+  - text: Data entry tool
+    href: /contribute/data-entry-tool
+  - text: Validation pipeline
+    href: /contribute/validation-pipeline
+  - text: Surveillance guidances
+    href: /contribute/surveillance-guidances
+  - text: Data flows
+    href: /contribute/data-flows
+  - text: Validators
+    href: /contribute/validators
+- text: About Vectornet
   menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Other sites using the theme
-    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
-  - text: Markdown tutorial
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: YAML tutorial
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
-  href: /news/
+  - text: Partners
+    href: /about/partners
+  - text: Objectives
+    href: /about/objectives
+  - text: Maps
+    href: /about/maps
+  - text: Training
+    href: /about/training
+  - text: Reports
+    href: /about/reports
+- text: Related
+  menu: # Dropdown menu (one level deep only)
+  - text: VBD-Networks
+    href: /related/vbd-networks
+  - text: Entomology networks
+    href: /related/entomology-networks
+  - text: Social media
+    href: /related/social-media
+  - text: Other
+    href: /related/other
