@@ -96,3 +96,17 @@
   margin: auto;
   justify-content: center;
 }
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  padding: 24px 0;
+  justify-items: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 48px 96px;
+  > div {
+    width: 200px;
+    max-width: 200px;
+  }
+}

@@ -92,3 +92,17 @@ contribute:
       background: https://inaturalist-open-data.s3.amazonaws.com/photos/211057756/original.jpeg
       imageLicense: |
         By Jörg Pageler via [iNaturalist](https://www.inaturalist.org/photos/211057756) CC-BY-NC 4.0
+
+
+
+logos: 
+  klass: test
+  markdownContent: |
+    <div class="logo-container">
+      <div>
+        <img src="/assets/images/placeholders/logo-ecdc.png" alt="ECDC logo">
+      </div>
+      <div>
+        <img src="/assets/images/placeholders/efsa.svg" alt="EFSA logo">
+      </div>
+    </div>

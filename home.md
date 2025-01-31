@@ -19,6 +19,8 @@ cta:
     href: /related
 composition:
   - type: heroImage # the block type
+  - type: blank
+    data: examples.logos
   - type: features
     data: examples.couldBeAnyName
   - type: split
