@@ -5,7 +5,7 @@
   - text: All records
     href: /occurrence/search
   - text: ----------
-  - text: Mites
+  - text: Ticks
     href: /occurrence/search?taxonKey=1425
   - text: Mosquitoes
     href: /occurrence/search?taxonKey=3346
