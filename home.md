@@ -11,8 +11,8 @@ cta:
   - text: Occurrences
     href: /occurrence/search
     isPrimary: true
-  # - text: About
-  #   href: /about
+  - text: About
+    href: "/#about-vectornet"
   # - text: Contribute
   #   href: /contribute
   # - text: Related
