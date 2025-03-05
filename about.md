@@ -16,6 +16,10 @@ VectorNet started in May 2014, and is now running its third iteration (2024–20
 
 ![some figure text](/assets/images/placeholders/vn1.png){:standalone .has-text-centered}
 
+The VectorNet consortium brings together a network of medical entomologists and public health professionals, together with veterinary entomologists and veterinarians working the field of vector-borne disease in Europe and the countries surrounding the Mediterranean Basin. The project also provides ad-hoc scientific advice to support ECDC and EFSA with technical questions on vector surveillance and vector-borne disease in humans and animals.
+
+The primary outputs of VectorNet have been, anc continue to be, the Vector maps: https://www.ecdc.europa.eu/en/disease-vectors/ 
+
 Vectornet maintains a common database on the presence and distribution of vectors and pathogens in vectors across Europe and the Mediterranean basin. The project is operated by a consortium including the following VectorNet experts. The vectornet database is uploaded periodically on the GBIF Vectornet Data portal.
 
 ## VectorNet experts
@@ -35,5 +39,5 @@ Vectornet maintains a common database on the presence and distribution of vector
 | GIS            | William Wint            | Cedric Marsboom       |
 | Project management | Cedric Marsboom      | Marieta Braks         |
 
-
+There are also many more reports and tools produced by the VectorNet, many of these organized on https://www.ecdc.europa.eu/en/disease-vectors/, but others published by EFSA in their journals.
 
