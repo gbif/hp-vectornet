@@ -13,8 +13,8 @@ cta:
     isPrimary: true
   - text: About
     href: "/#about-vectornet"
-  # - text: Contribute
-  #   href: /contribute
+  - text: Contribute
+    href: /contribute
   # - text: Related
   #   href: /related
 composition:
