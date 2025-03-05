@@ -10,8 +10,8 @@ layout: compose
 composition:
   - type: heroImage
   - type: pageMarkdown # This will render the markdown in this file
-  - type: features
-    data: examples.contribute
+  # - type: features
+  #  data: examples.contribute
 ---
 
 Knowing the distribution of competent vector species is primordial for increased preparedness for vector borne diseases. To develop adequate prevention and control methods, it is of outmost importance that vector distribution data are reliable. The objective of the Vectornet Data Portal is to gather **validated** vector distribution data in the Vectornet Area (EU and neighbouring countries, including countries around the Mediterranean Basin), so they can be used by risk assessors and managers. All the data that will be pulled onto the Vectornet Data Portal will be first validated by one of the [Vectornet experts](/about#vectornet-experts), funded by ECDC and EFSA for the validation activities.
