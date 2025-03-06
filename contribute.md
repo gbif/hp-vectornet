@@ -18,7 +18,7 @@ Knowing the distribution of competent vector species is primordial for increased
 
 If you like to contribute your vector surveillance data to the Vectornet Data portal, and the data is not yet published on GBIF, kindly complete the [VectorNet GBIF data entry tool](/link-should-go-here), and send it to the [Vectornet coordinator](/link-should-go-here), who will forward it to one of the [Vectornet experts](/about#vectornet-experts) for validation. After validation, they will assist you to publish your data on GBIF, or you can publish your data with the help of one of the [GBIF nodes in your area](/link-should-go-here), if available, if your country is not part of the GBIF network, you can reach out at [helpdesk@gbif.org](mailto:helpdesk@gbif.org) or [health@gbif.org](mailto:health@gbif.org).
 
-![some figure text](/assets/images/placeholders/vn2.png){:standalone .has-text-centered}
+![some figure text](/assets/images/vn2.png){:standalone .has-text-centered}
 
 If you would like your already published dataset to be pulled on the GBIF portal, kindly contact [Vectornet coordinator](/link-should-go-here), who will forward it to one of the [Vectornet experts](/link-should-go-here) for validation. After validation, Vectornet will request the GBIF node or the appropriate GBIF contact to request to pull your data onto the portal.
 
