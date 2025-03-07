@@ -7,6 +7,6 @@ Besides the well-known vector distribution maps and capacity building in the EU 
 
 The OCPs are nominated by ECDC National Coordinators and represent the entomologists working in the public health sector to combat VBD’s. The NVE members are appointed by EFSA and represent entomologists working in the veterinary health sector. 
 
-The OHVEN network works closely together with the Animal Health and Welfare network of EFSA, and more in particular, with the sub-group on One health surveillance. Vector surveillance data collected byt the One health surveillance subgroup in the EU member states are also validated by Vectornet and uploaded on the GBIF Vectornet Data portal.
+The OHVEN network works closely together with the **Animal Health and Welfare network** of EFSA, and more in particular, with the sub-group on One health surveillance. Vector surveillance data collected byt the One health surveillance subgroup in the EU member states are also validated by Vectornet and uploaded on the GBIF Vectornet Data portal.
 
 
