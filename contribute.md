@@ -23,10 +23,15 @@ If you like to contribute your vector surveillance data to the Vectornet Data po
 If you would like your already published dataset to be pulled on the GBIF portal, kindly contact [Vectornet coordinator](/www.ecdc.europa.eu/en/about-us/partnerships-and-networks/disease-and-laboratory-networks/vector-net), who will forward it to one of the [Vectornet experts](/about#vectornet-experts) for validation. After validation, Vectornet will request the GBIF node or the appropriate GBIF contact to request to pull your data onto the portal.
 
 The validation of entomological surveillance data will involve checking the following aspects of the vector surveillance:
+
 **1. Completeness check:** to validate the data, a minimum of required data needs to be submitted, providing information about the location, the vector species, the collection method and the occurrence status. Information about the required variables is provided in the VectorNet GBIF data entry tool. 
+
 **2.	Check of the vector surveillance methodology:**  The validators will confirm that an appropriate trapping method was used for the targeted vector species. 
+
 **3.	Check of the vector identification:**  The validators will confirm that an appropriate identification method was used for the targeted vector species.
+
 **4.	Upload the data** in the GBIF test environment to highlight potential issues and automatically flag mistakes in the GBIF test environment.
-**5.	Check for geographic distribution outliers:** The validators will flag occurrences that were observed in areas with an inferred absence status for the specific vector
+
+**5.	Check for geographic distribution outliers:** The validators will flag occurrences that were observed in areas with an inferred absence status for the specific vector.
 
 Feedback of the validation check will be provided to the Data Providers. It will be the responsibility of the data providers to remove outliers and correct mistakes, before the data can be validated and published onto GBIF.
