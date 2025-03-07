@@ -33,9 +33,9 @@ VectorNet started in May 2014, and is now running its third iteration (2024–20
 
 Vectornet maintains a common database on the presence and distribution of vectors and pathogens in vectors across Europe and the Mediterranean basin. The project is operated by a consortium including the following VectorNet experts. The vectornet database is uploaded periodically on the GBIF Vectornet Data portal. 
 
-The primary outputs of VectorNet have been, anc continue to be, the Vector maps: https://www.ecdc.europa.eu/en/disease-vectors/
+The primary outputs of VectorNet have been, anc continue to be, the Vector maps: (/www.ecdc.europa.eu/en/disease-vectors/)
 
-There are also many more reports and tools produced by the VectorNet, many of these organized on https://www.ecdc.europa.eu/en/disease-vectors/, but others published by EFSA in their journals. A list of Vector Net experts appear below:
+There are also many more reports and tools produced by the VectorNet, many of these organized on (/www.ecdc.europa.eu/en/disease-vectors/), but others published by EFSA in their journals. A list of Vector Net experts appear below:
 
 ## VectorNet experts
 
