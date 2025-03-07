@@ -15,8 +15,8 @@ cta:
     href: "/#about-vectornet"
   - text: Contribute
     href: /contribute
-  - text: Related networks
-    href: /related
+#  - text: Related networks
+#   href: /related
 composition:
   - type: heroImage # the block type
   - type: blank
