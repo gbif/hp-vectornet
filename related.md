@@ -1,5 +1,5 @@
 
-Global warming and changing ecological conditions, as well as trade and travel, influence the spread of arthropod vectors, creating favourable conditions for the vector-borne diseases in previously unaffected areas. Since the presence of competent vectors is a prerequisite for the transmission of strictly vector-borne diseases, knowledge about their distribution is of primordial importance for their prevention and control. 
+Climate change and changing ecological conditions, as well as trade and travel, influence the spread of arthropod vectors, creating favourable conditions for the vector-borne diseases in previously unaffected areas. Since the presence of competent vectors is a prerequisite for the transmission of strictly vector-borne diseases, knowledge about their distribution is of primordial importance for their prevention and control. 
 
 After eight years of intense collaboration on VBDs, through two consecutive inter-institutional framework contracts, ECDC and EFSA joined forces to support a third iteration of VectorNet. 
 
