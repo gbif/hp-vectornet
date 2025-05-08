@@ -2,7 +2,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
   primary: themeStyle.colors.primary
 }});
 
-var datasets = ['e61dbcec-5082-4a20-9d15-0be61dac7720', '1c3d0e60-90fe-48e2-9536-e3b0583c4172', 'af2e74e4-bd2e-4983-97ac-e21f6cc430a0', '4abd984b-122c-44a0-8c92-b37e2f5299b1', '94ffb88e-d385-4846-888f-038edba9fff6'];
+var datasets = ['e61dbcec-5082-4a20-9d15-0be61dac7720', '1c3d0e60-90fe-48e2-9536-e3b0583c4172', 'af2e74e4-bd2e-4983-97ac-e21f6cc430a0', '4abd984b-122c-44a0-8c92-b37e2f5299b1', '94ffb88e-d385-4846-888f-038edba9fff6', '02e8ee36-9f83-4850-a0f2-edcaacb80818', 'fc1dd9e3-ff53-4d57-9d8e-e29afbb955b8', '88da84d8-6c33-4012-828a-cdf738e542b9', 'd7add022-2594-4816-9c37-bc50fa8c9a61'];
 
 var siteConfig = {
   routes: {
