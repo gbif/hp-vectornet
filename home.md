@@ -32,9 +32,9 @@ VectorNet started in May 2014, and is now running its third iteration (2024–20
 
 Vectornet maintains a common database on the presence and distribution of vectors and pathogens in vectors across Europe and the Mediterranean basin. The project is operated by a consortium including the following VectorNet experts. The vectornet database is uploaded periodically on the GBIF Vectornet Data portal. 
 
-The primary outputs of VectorNet have been, anc continue to be, the Vector maps at www.ecdc.europa.eu/en/disease-vectors/
+The primary outputs of VectorNet have been, and continue to be, the Vector maps at [www.ecdc.europa.eu/en/disease-vectors](https://www.ecdc.europa.eu/en/disease-vectors/)
 
-There are also many more reports and tools produced by the VectorNet, many of these organized on the VectorNet website at www.ecdc.europa.eu/en/disease-vectors/ but others published by EFSA in their journals. A list of Vector Net experts appear below:
+There are also many more reports and tools produced by the VectorNet, many of these organized on the VectorNet website at [www.ecdc.europa.eu/en/disease-vectors](https://www.ecdc.europa.eu/en/disease-vectors/) but others published by EFSA in their journals. A list of VectorNet experts appear below:
 
 ## VectorNet experts
 
@@ -59,8 +59,6 @@ Knowing the distribution of competent vector species is primordial for increased
 If you like to share your vector surveillance data to the Vectornet Data portal, contact biohaw@efsa.europa.eu, or you can publish your data with the help of one of the GBIF nodes in your area, if available, if your country is not part of the GBIF network, you can reach out at helpdesk@gbif.org or health@gbif.org.
 
 ![overview](/assets/images/vn2.png){:standalone .has-text-centered}
-
-If you would like your already published dataset to be pulled on the GBIF portal, kindly contact [Vectornet coordinator](/www.ecdc.europa.eu/en/about-us/partnerships-and-networks/disease-and-laboratory-networks/vector-net), who will forward it to one of the [Vectornet experts](/#vectornet-experts) for validation. After validation, Vectornet will request the GBIF node or the appropriate GBIF contact to request to pull your data onto the portal.
 
 The validation of entomological surveillance data will involve checking the following aspects of the vector surveillance:
 
