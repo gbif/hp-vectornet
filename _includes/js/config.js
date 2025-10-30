@@ -131,7 +131,7 @@ var siteConfig = {
       "table",
       "map",
       //"gallery",
-      //"datasets",
+      "datasets",
       //"clusters",
       "dashboard",
       "download"
