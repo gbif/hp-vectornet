@@ -85,6 +85,7 @@ var siteConfig = {
       "taxonKey",
       "geometry",
       "year",
+      "datasetId",
       "datasetKey",
     ],
     "excludedFilters": [
@@ -102,7 +103,6 @@ var siteConfig = {
       "lithostratigraphy",
       "geologicalTime",
       "taxonId",
-      "datasetId",
       "datasetName",
       "programme",
       "projectId",
