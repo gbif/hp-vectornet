@@ -85,10 +85,10 @@ var siteConfig = {
       "taxonKey",
       "geometry",
       "year",
-      "datasetId",
       "datasetKey",
     ],
     "excludedFilters": [
+      "datasetId",
       "networkKey",
       "hostingOrganizationKey",
       "protocol",
