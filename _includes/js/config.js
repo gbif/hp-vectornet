@@ -60,15 +60,28 @@ var siteConfig = {
       "mapTileLocale": "en"
     }
   ],
-  "messages": {  // renaming datasetID in the filter for readibility
-    "en": {
-      "filters": {
-        "labels": {
-          "datasetId": "OneHealth dataset ID"
-        }
+ 
+"messages": {
+  "en": {
+    //  Override the DwC term label 
+    "termLabels": {
+      "dwc:datasetID": "OneHealth dataset ID"
+    },
+    //  Keep filter label override for the filter control itself
+    "filters": {
+      "labels": {
+        "datasetId": "OneHealth dataset ID"
       }
+    },
+    // (optional) show datasetId as a column or facet anywhere:
+    "columns": {
+      "datasetId": "OneHealth dataset ID"
+    },
+    "facetNames": {
+      "datasetId": "OneHealth dataset ID"
     }
-  },
+  }
+},
   "occurrenceSearch": {
     // You probably need help to configure the scope - so just ask
     // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
