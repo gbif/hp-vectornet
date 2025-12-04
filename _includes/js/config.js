@@ -62,20 +62,7 @@ var siteConfig = {
   ],
  
 
-"messages": {
-  "en": {
-    "vocabulary": {
-      "termLabels": {
-        "dwc:datasetID": "OneHealth dataset ID"
-      }
-    },
-    "filters": {
-      "labels": {
-        "datasetId": "OneHealth dataset ID"
-      }
-    }
-  }
-},
+"messages": {},
 
   "occurrenceSearch": {
     // You probably need help to configure the scope - so just ask
