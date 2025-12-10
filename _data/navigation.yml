@@ -13,3 +13,6 @@
     href: /occurrence/search?taxonKey=3340
   - text: Sandflies
     href: /occurrence/search?taxonKey=9164
+
+- text: Shapefiles        # adding downloadable resources section
+  href: /downloads 
