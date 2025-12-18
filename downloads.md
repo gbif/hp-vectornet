@@ -8,12 +8,11 @@ composition:
   - type: pageMarkdown
 permalink: /downloads
 height: 70vh
-wide: true
 ---
 
 #### Shapefile with VectorNet mapping polygons (2021)
+<div style="font-size: 0.9em;">
 
-[Download shapefile (.zip)](assets/shapefiles/VectorDistributionsStatusMap2021NUTS3shp.zip){: .button .is-primary}
 
 This shapefile is associated with the dataset [VectorDistributionStatus](https://www.vectornetdata.org/occurrence/search/?view=datasets&entity=d_b2390da7-9704-4215-b038-3727df6e7fee).
 
@@ -31,6 +30,9 @@ The NUTS system used is the [2021 version](https://ec.europa.eu/eurostat/web/nut
 <p class="text-muted" style="font-size: 0.85em;">
 Administrative boundaries: ©EuroGeographics ©UN-FAO ©Turkstat.
 </p>
+[Download shapefile (.zip)](assets/shapefiles/VectorDistributionsStatusMap2021NUTS3shp.zip){: .button .is-primary}
+</div>
+
 
 
 
