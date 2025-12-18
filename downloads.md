@@ -11,7 +11,7 @@ height: 70vh
 ---
 
 #### Shapefile with VectorNet mapping polygons (2021)
-<div style="font-size: 0.9em;">
+<span style="font-size: 0.9em;">
 
 
 This shapefile is associated with the dataset [VectorDistributionStatus](https://www.vectornetdata.org/occurrence/search/?view=datasets&entity=d_b2390da7-9704-4215-b038-3727df6e7fee).
@@ -31,7 +31,8 @@ The NUTS system used is the [2021 version](https://ec.europa.eu/eurostat/web/nut
 Administrative boundaries: ©EuroGeographics ©UN-FAO ©Turkstat.
 </p>
 [Download shapefile (.zip)](assets/shapefiles/VectorDistributionsStatusMap2021NUTS3shp.zip){: .button .is-primary}
-</div>
+</span>
+
 
 
 
