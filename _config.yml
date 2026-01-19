@@ -48,10 +48,11 @@ algae:
     # square: false               # Should corners be square or rounded
     colors:
       primary: "#839d68"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      secondary: "#e3a024"  
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
-    custom_css:
-      - /assets/css/custom.css    #adding custom button colors
+  # custom_css:
+  #  - /assets/css/custom.css    #adding custom button colors --> investigate later for custom css
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
     # color: "tomato"             # What color should the navbar be?
