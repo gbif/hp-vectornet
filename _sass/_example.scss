@@ -6,15 +6,23 @@
 .custom-yellow-button {
   background-color: #e3a024 !important;
   border-color: #e3a024 !important;
+  color: #fff !important; /* Add text color */
+}
+
+.custom-yellow-button:hover,
+.custom-yellow-button:focus,
+.custom-yellow-button:active {
+  background-color: #c78a1f !important; /* Darker shade on hover */
+  border-color: #c78a1f !important;
   color: #fff !important;
-  
-  &:hover,
-  &:focus,
-  &:active {
-    background-color: #c78a1f !important;
-    border-color: #c78a1f !important;
-    color: #fff !important;
-  }  
+}
+
+/* If it's a link styled as a button, add these */
+a.custom-yellow-button {
+  background-color: #e3a024 !important;
+  border-color: #e3a024 !important;
+  color: #fff !important;
+  text-decoration: none !important;
 }
   .statistic {
     flex: 0 0 300px;
