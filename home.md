@@ -13,6 +13,8 @@ cta:
     isPrimary: true
   - text: About
     href: "/#about-vectornet"
+  - text: Contribute
+    href: /contribute/
 toc: true
 mobileToc: false
 height: 70vh
