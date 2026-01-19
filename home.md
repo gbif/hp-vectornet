@@ -5,7 +5,7 @@ title: |
   <div>Data portal</div>
 description: Sharing validated data on vector occurrences in Europe, to improve preparedness for vector-borne diseases
 background:  "/assets/images/tick.jpg"
-imageLicense: Dermacentor reticulatus Fabricius, 1794 - photo by Вячеслав Юсупов via [iNaturalist](https://www.inaturalist.org/photos/122397460) - License [CC-BY-NC-4](http://creativecommons.org/licenses/by-nc/4.0/)
+imageLicense: Rhipicephalus sanguineus Latreille, 1806 - photo by AviaGH - ECDC
 height: 90vh
 cta:
   - text: Occurrences
