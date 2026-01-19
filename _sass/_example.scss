@@ -2,7 +2,20 @@
   .statistics-cards {
     justify-content: space-between;
   }
-
+  
+.custom-yellow-button {
+  background-color: #e3a024 !important;
+  border-color: #e3a024 !important;
+  color: #fff !important;
+  
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: #c78a1f !important;
+    border-color: #c78a1f !important;
+    color: #fff !important;
+  }  
+}
   .statistic {
     flex: 0 0 300px;
     width: 300px;
