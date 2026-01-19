@@ -6,7 +6,6 @@ title: |
 description: Sharing validated data on vector occurrences in Europe, to improve preparedness for vector-borne diseases
 background:  /assets/images/ixodes_scapularis.jpg
 imageLicense: Ixodes scapularis Say, 1821. Photo by Erika Karits via [Pixabay](https://pixabay.com/it/photos/tic-tac-lyme-ixodes-scapularis-7219342/)
-height: 60vh
 cta:
   - text: Occurrences
     href: /occurrence/search
@@ -18,7 +17,7 @@ cta:
     class: custom-yellow-button
 toc: true
 mobileToc: false
-height: 80vh
+height: 70vh
 composition:
   - type: heroImage # the block type
   - type: blank
