@@ -5,7 +5,7 @@ title: |
   <div>Data portal</div>
 description: Sharing validated data on vector occurrences in Europe, to improve preparedness for vector-borne diseases
 background:  "/assets/images/tick.jpg"
-imageLicense: Ixodes scapularis Say, 1821. Photo by Erika Karits via [pixabay](https://pixabay.com/it/photos/tic-tac-lyme-ixodes-scapularis-7219342/)
+imageLicense: Ixodes scapularis Say, 1821. Photo by Erika Karits via [Pixabay](https://pixabay.com/it/photos/tic-tac-lyme-ixodes-scapularis-7219342/)
 height: 60vh
 cta:
   - text: Occurrences
