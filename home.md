@@ -4,7 +4,7 @@ title: |
   <div><span class="custom-orange">Vector</span><span class="custom-green">Net</span></div>
   <div>Data portal</div>
 description: Sharing validated data on vector occurrences in Europe, to improve preparedness for vector-borne diseases
-background:  "/assets/images/tick.jpg"
+background:  /assets/images/ixodes_scapularis.jpg
 imageLicense: Ixodes scapularis Say, 1821. Photo by Erika Karits via [Pixabay](https://pixabay.com/it/photos/tic-tac-lyme-ixodes-scapularis-7219342/)
 height: 60vh
 cta:
@@ -18,7 +18,7 @@ cta:
     class: custom-yellow-button
 toc: true
 mobileToc: false
-height: 70vh
+height: 80vh
 composition:
   - type: heroImage # the block type
   - type: blank
