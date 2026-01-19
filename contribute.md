@@ -7,7 +7,7 @@ composition:
   - type: heroImage
   - type: pageMarkdown
 permalink: /contribute/
-height: 60vh
+height: 70vh
 ---
 ### User Documentation
 <iframe src="{{ '/assets/pdf/user_documentation.pdf' | relative_url }}" width="100%" height="600px" style="border: 1px solid #ccc;">
@@ -23,6 +23,7 @@ height: 60vh
 </iframe>
 
 [Download FAQ]({{ '/assets/pdf/FAQ.pdf' | relative_url }}){: .button .is-primary}
+
 
 
 
