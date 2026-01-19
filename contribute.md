@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Contribute to <div><span class="custom-orange">Vector</span><span class="custom-green">Net</span></div>
-description: Explore the complete guide to using the portal, with answers to common questions
+title: Contribute to <span class="custom-orange">Vector</span><span class="custom-green">Net</span>
 background: /assets/images/ixodes_scapularis.jpg
 composition:
   - type: heroImage
@@ -23,4 +22,5 @@ height: 70vh
 </iframe>
 
 [Download FAQ]({{ '/assets/pdf/FAQ.pdf' | relative_url }}){: .button .is-primary}
+
 
