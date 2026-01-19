@@ -5,8 +5,8 @@ title: |
   <div>Data portal</div>
 description: Sharing validated data on vector occurrences in Europe, to improve preparedness for vector-borne diseases
 background:  "/assets/images/tick.jpg"
-imageLicense: Rhipicephalus sanguineus Latreille, 1806 - photo by AviaGH - ECDC
-height: 40vh
+imageLicense: Ixodes scapularis Say, 1821. Photo by Erika Karits via [pixabay](https://pixabay.com/it/photos/tic-tac-lyme-ixodes-scapularis-7219342/)
+height: 60vh
 cta:
   - text: Occurrences
     href: /occurrence/search
@@ -15,7 +15,7 @@ cta:
     href: "/#about-vectornet"
   - text: Contribute
     href: /contribute/
-    isSecondary: true
+    class: custom-yellow-button
 toc: true
 mobileToc: false
 height: 70vh
