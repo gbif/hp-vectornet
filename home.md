@@ -15,10 +15,10 @@ cta:
     href: "/#about-vectornet"
   - text: Contribute
     href: /contribute/
-    class: custom-yellow-button
+    isSecondary: true
 toc: true
 mobileToc: false
-height: 40vh
+height: 70vh
 composition:
   - type: heroImage # the block type
   - type: blank
