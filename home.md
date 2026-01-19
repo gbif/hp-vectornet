@@ -6,7 +6,7 @@ title: |
 description: Sharing validated data on vector occurrences in Europe, to improve preparedness for vector-borne diseases
 background:  "/assets/images/tick.jpg"
 imageLicense: Rhipicephalus sanguineus Latreille, 1806 - photo by AviaGH - ECDC
-height: 50vh
+height: 40vh
 cta:
   - text: Occurrences
     href: /occurrence/search
@@ -15,6 +15,7 @@ cta:
     href: "/#about-vectornet"
   - text: Contribute
     href: /contribute/
+    class: custom-yellow-button
 toc: true
 mobileToc: false
 height: 70vh
