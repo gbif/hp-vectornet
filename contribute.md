@@ -9,7 +9,7 @@ composition:
 permalink: /contribute/
 height: 70vh
 ---
-You can submit your data contributions to <span class="custom-orange">Vector</span><span class="custom-green">Net</span> using the Vector Data Validation tool. 
+You can submit your data contributions to VectorNet using the Vector Data Validation tool. 
 
 On this page you find the comprehensive explanation on how entomologists can provide data and how theVectorNet reference entomologists review it so that it can be uploaded to the VectorNet site on GBIF. 
 
@@ -29,6 +29,7 @@ You also find an FAQ document that is kept up to date with the latest questions 
 </iframe>
 
 [Download FAQ]({{ '/assets/pdf/FAQ.pdf' | relative_url }}){: .button .is-primary}
+
 
 
 
