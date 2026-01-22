@@ -46,6 +46,12 @@ title: Frequently Asked Questions
 * The Data Validation Tool detects series of sequentially increasing values (dates, numbers and even strings ending in a digit) and flags them as warnings.
 * Please check to make sure that the values are correct and not the result of this Excel feature.
 
+### What should I do after correcting issues identified by the reference entomologist? 
+
+The validation tool tracks interactions and keeps a copy of validated data.
+* ✅ **DO** resend your data to the validation tool to do a final check for errors, and, if it passes, resubmit your data to the reference entomologist
+* ❌ **DON’T** send your data via email directly to the reference entomologist. 
+
 ---
 
 ## VectorNet Reference Entomologists

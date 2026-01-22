@@ -12,8 +12,8 @@ cta:
     isPrimary: true
   - text: About
     href: "/#about-vectornet"
-  - text: Contribute
-    href: /contribute/
+  - text: Validate
+    href: /validation/about/
     class: custom-yellow-button
 toc: true
 mobileToc: false
