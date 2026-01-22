@@ -15,4 +15,15 @@
     href: /occurrence/search?taxonKey=9164
 
 - text: Shapefiles        # adding downloadable resources section
-  href: /downloads 
+  href: /downloads
+
+- text: Validation Tool
+  menu:
+  - text: About the tool
+    href: /validation/about/
+  - text: Guide for data submitters
+    href: /validation/submitters/
+  - text: Guide for reference entomologists
+    href: /validation/ref_ento/
+  - text: FAQ
+    href: /validation/faq/
