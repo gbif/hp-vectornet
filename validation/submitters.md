@@ -85,6 +85,10 @@ When confident the data is correct, click this link to forward the validated spr
 
 ### Receiving the Final File and Submitting to GBIF
 
+* Email the manually validated workbook back to the original data provider.
+* They are responsible for the final upload to the GBIF repository.
+
+### Pulling the Dataset into the VectorNet Data portal 
 After publication of the dataset on GBIF, please send an email to **biohaw@efsa.europa.eu** to ensure that your dataset can be pulled into the VectorNet Data Portal on GBIF. 
 
 The **"Subject"** should read *“VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal”* and the URL link to your published GBIF dataset should be pasted into the body of the email:
