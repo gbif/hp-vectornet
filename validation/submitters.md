@@ -85,18 +85,12 @@ When confident the data is correct, click this link to forward the validated spr
 
 ### Receiving the Final File and Submitting to GBIF
 
-After manual review, the entomologist will send you an email to either request further corrections or
-approve the data for submission to GBIF. 
+After publication of the dataset on GBIF, please send an email to **biohaw@efsa.europa.eu** to ensure that your dataset can be pulled into the VectorNet Data Portal on GBIF. 
 
-If further corrections are requested:
- 
-* Make the corrections in the copy sent by the reference entomologist
-* Send the spreadsheet to the validation tool for a final check
-* Once it passes, use the button on the confirmation email to resubmit to the reference entomologist
+The “Subject” should read *“VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal”* and the URL link to your published GBIF dataset should be pasted into the body of the email:
 
-If the data is ready for submission to GBIF:
-
-* It is your responsibility to **submit it directly to the GBIF repository** according to standard procedures.
+> **Subject:**       VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal
+> **Body:**          URL link to your published GBIF dataset
 
 ### How to Get a Customised Template
 
