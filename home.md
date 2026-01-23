@@ -55,27 +55,6 @@ There are also many more reports and tools produced by the VectorNet, many of th
 | GIS            | William Wint            | Cedric Marsboom       |
 | Project management | Cedric Marsboom      | Marieta Braks         |
 
-## Contribute
-Knowing the distribution of competent vector species is primordial for increased preparedness for vector borne diseases. To develop adequate prevention and control methods, it is of utmost importance that vector distribution data are reliable. The objective of the Vectornet Data Portal is to gather **validated** vector distribution data in the Vectornet Area (EU and neighbouring countries, including countries around the Mediterranean Basin), so they can be used by risk assessors and managers. All the data that will be pulled onto the Vectornet Data Portal will be first validated by one of the [Vectornet experts](#vectornet-experts), funded by ECDC and EFSA for the validation activities.
-
-If you like to share your vector surveillance data to the Vectornet Data portal, contact biohaw@efsa.europa.eu, or you can publish your data with the help of one of the GBIF nodes in your area, if available, if your country is not part of the GBIF network, you can reach out at helpdesk@gbif.org or health@gbif.org.
-
-![overview](/assets/images/vn2.png){:standalone .has-text-centered}
-
-The validation of entomological surveillance data will involve checking the following aspects of the vector surveillance:
-
-**1. Completeness check:** to validate the data, a minimum of required data needs to be submitted, providing information about the location, the vector species, the collection method and the occurrence status. Information about the required variables is provided in the VectorNet GBIF data entry tool. 
-
-**2.	Check of the vector surveillance methodology:**  The validators will confirm that an appropriate trapping method was used for the targeted vector species. 
-
-**3.	Check of the vector identification:**  The validators will confirm that an appropriate identification method was used for the targeted vector species.
-
-**4.	Upload the data** in the GBIF test environment to highlight potential issues and automatically flag mistakes in the GBIF test environment.
-
-**5.	Check for geographic distribution outliers:** The validators will flag occurrences that were observed in areas with an inferred absence status for the specific vector.
-
-Feedback of the validation check will be provided to the Data Providers. It will be the responsibility of the data providers to remove outliers and correct mistakes, before the data can be validated and published onto GBIF.
-
 ## Related networks
 
 Climate change and changing ecological conditions, as well as trade and travel, influence the spread of arthropod vectors, creating favourable conditions for the vector-borne diseases in previously unaffected areas. Since the presence of competent vectors is a prerequisite for the transmission of strictly vector-borne diseases, knowledge about their distribution is of primordial importance for their prevention and control. 
