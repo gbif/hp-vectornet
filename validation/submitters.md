@@ -85,7 +85,7 @@ When confident the data is correct, click this link to forward the validated spr
 
 ### Receiving the Final File and Submitting to GBIF
 
-* Email the manually validated workbook back to the original data provider.
+* Email the manually validated workbook back to the **original data provider**.
 * They are responsible for the final upload to the GBIF repository.
 
 ### Pulling the Dataset into the VectorNet Data portal 
