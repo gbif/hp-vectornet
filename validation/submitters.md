@@ -97,14 +97,15 @@ Once your dataset has received final expert validation, publish the dataset on *
 * If you need further support, you can contact [helpdesk@gbif.org](helpdesk@gbif.org).
 
 ### Pulling the Dataset into the VectorNet Data portal 
+
 After publication of the dataset on GBIF, please send an email to **biohaw@efsa.europa.eu** to ensure that your dataset can be pulled into the VectorNet Data Portal on GBIF. 
 
 The **"Subject"** should read *“VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal”* and the URL link to your published GBIF dataset should be pasted into the body of the email:
-
-> **Subject:**       <span style="color:#0f8a6b;">VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal</span>
-> 
-> **Body:**          <span style="color:#0f8a6b;">URL link to your published GBIF dataset</span>
-
+<pre>
+Subject:       VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal 
+   
+Body:          URL link to your published GBIF dataset
+</pre>
 ### How to Get a Customised Template
 
 To simplify data entry, you can generate a custom template for specific countries or columns:
