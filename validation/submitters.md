@@ -83,10 +83,18 @@ Once you submit a file with **zero Errors**, you will receive a "Validation Succ
 
 When confident the data is correct, click this link to forward the validated spreadsheet to the Reference Entomologist for manual review.
 
-### Receiving the Final File and Submitting to GBIF
+### Receiving Expert Validation for the Final File
 
-* Email the manually validated workbook back to the **original data provider**.
-* They are responsible for the final upload to the GBIF repository.
+The **Reference Entomologist** will **manually review** the validated spreadsheet and provide feedback.
+1. Once you correct the issues identified by the Reference Entomologist, **resend the data to the validation tool** (vector.validation@efsa.epimundi.com) to do a final check for errors.
+2. If the validation is successful, **resubmit your data** to the **Reference Entomologist** for the final approval.
+
+### Submitting to GBIF
+
+Once your dataset has received final expert validation, publish the dataset on **GBIF**.
+
+* Guidance on this process is available at [https://www.gbif.org/publishing-data](https://www.gbif.org/publishing-data).
+* If you need further support, you can contact [helpdesk@gbif.org](helpdesk@gbif.org).
 
 ### Pulling the Dataset into the VectorNet Data portal 
 After publication of the dataset on GBIF, please send an email to **biohaw@efsa.europa.eu** to ensure that your dataset can be pulled into the VectorNet Data Portal on GBIF. 
