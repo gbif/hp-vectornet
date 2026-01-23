@@ -56,6 +56,7 @@ If you find errors requiring correction:
 
 * Email the provider with the subject line: **Errors requiring correction**.
 * Provide feedback via email text or manual highlights/comments in the **1.DATA INPUT** sheet.
+* Ask them to send their corrected data to the validation tool, and then submit for manual validation once it passes all checks. 
 * **Important**: Do not add your ORCID and **delete the GBIF submission page** (5.Data Output – GBIF) before returning the file to prevent accidental submission of invalid data.
 
 ---

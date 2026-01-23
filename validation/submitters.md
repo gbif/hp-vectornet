@@ -85,7 +85,18 @@ When confident the data is correct, click this link to forward the validated spr
 
 ### Receiving the Final File and Submitting to GBIF
 
-After manual review, the entomologist will email the final, fully validated workbook back to you. Your final responsibility is to take this file and **submit it directly to the GBIF repository** according to standard procedures.
+After manual review, the entomologist will send you an email to either request further corrections or
+approve the data for submission to GBIF. 
+
+If further corrections are requested:
+ 
+* Make the corrections in the copy sent by the reference entomologist
+* Send the spreadsheet to the validation tool for a final check
+* Once it passes, use the button on the confirmation email to resubmit to the reference entomologist
+
+If the data is ready for submission to GBIF:
+
+* It is your responsibility to **submit it directly to the GBIF repository** according to standard procedures.
 
 ### How to Get a Customised Template
 

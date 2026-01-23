@@ -50,7 +50,7 @@ The following workflow outlines the journey of surveillance data from initial en
 ## More information
 
 * [Guide for data submitters](/validation/submitters/)
-* [Guide for reference entomologists](/validation/ref_entos/)
+* [Guide for reference entomologists](/validation/ref_ento/)
 * [Frequently asked questions](/validation/faq/)
 
 [Download User Documentation]({{ '/assets/pdf/user_documentation.pdf' | relative_url }}){: .button .is-primary}
