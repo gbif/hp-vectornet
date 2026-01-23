@@ -87,11 +87,11 @@ When confident the data is correct, click this link to forward the validated spr
 
 After publication of the dataset on GBIF, please send an email to **biohaw@efsa.europa.eu** to ensure that your dataset can be pulled into the VectorNet Data Portal on GBIF. 
 
-The **"Subject"** should read *“VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal” and the URL link to your published GBIF dataset should be pasted into the body of the email:
+The **"Subject"** should read *“VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal”* and the URL link to your published GBIF dataset should be pasted into the body of the email:
 
 > **Subject:**       <span style="color:#0f8a6b;">VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal</span>
 > 
-> **Body:**           <span style="color:#0f8a6b;">URL link to your published GBIF dataset</span>
+> **Body:**          <span style="color:#0f8a6b;">URL link to your published GBIF dataset</span>
 
 ### How to Get a Customised Template
 
