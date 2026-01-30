@@ -86,8 +86,16 @@ When confident the data is correct, click this link to forward the validated spr
 ### Receiving Expert Validation for the Final File
 
 The **Reference Entomologist** will **manually review** the validated spreadsheet and provide feedback.
-1. Once you correct the issues identified by the Reference Entomologist, **resend the data to the validation tool** (vector.validation@efsa.epimundi.com) to do a final check for errors.
-2. If the validation is successful, **resubmit your data** to the **Reference Entomologist** for the final approval.
+
+If **further corrections** are requested:
+ 
+* Make the corrections in the copy of the Excel file sent by the reference entomologist
+* Send the spreadsheet to the validation tool for a final check
+* Once it passes, use the button on the confirmation email to resubmit to the reference entomologist
+
+If the **Reference Entomologist** validates the data and no more corrections are required, the data is ready for submission to GBIF:
+
+* It is your responsibility to **submit it directly to the GBIF repository** according to standard procedures.
 
 ### Submitting to GBIF
 
@@ -106,6 +114,7 @@ Subject:       VectorNet validated dataset to be pulled on GBIF VectorNet Data P
    
 Body:          URL link to your published GBIF dataset
 </pre>
+
 ### How to Get a Customised Template
 
 To simplify data entry, you can generate a custom template for specific countries or columns:
