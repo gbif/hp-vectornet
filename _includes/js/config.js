@@ -90,6 +90,7 @@ var siteConfig = {
       "year",
       "datasetKey",
       "datasetId",
+      "verbatimScientificName"
     ],
     "excludedFilters": [
       "networkKey",
@@ -119,7 +120,6 @@ var siteConfig = {
       "associatedSequences",
       "pathway",
       "relativeOrganismQuantity",
-      "verbatimScientificName",
       "isSequenced"
     ],
     "defaultEnabledTableColumns": [
