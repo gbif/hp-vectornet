@@ -23,6 +23,8 @@ composition:
   - type: blank
     data: examples.logos
   - type: pageMarkdown
+  - type: blank #adding this and the line below for news panel
+    data: home.newsPanel
 permalink: /
 ---
 ## About VectorNet
