@@ -1,4 +1,5 @@
-title: News
+panel:
+  title: News
 description: |
   <div id="vn-news-panel">
     <style>
