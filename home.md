@@ -24,7 +24,7 @@ composition:
     data: examples.logos
   - type: pageMarkdown
   - type: blank
-    data: newsPanel
+    data: newsPanel.panel
 permalink: /
 ---
 ## About VectorNet
