@@ -31,7 +31,7 @@ twitter_username: yourname # if you have an account you want to link to. Else co
 github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
 # Build settings
-theme: minima
+# theme: minima trying to see if removing this theme helps to fix the logo issue <------------------ edit here IEVA
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
