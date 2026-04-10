@@ -23,7 +23,7 @@ composition:
   - type: blank
     data: examples.logos
   - type: stats
-    data: stats
+    data: stats.stats
   - type: pageMarkdown
   
 permalink: /
