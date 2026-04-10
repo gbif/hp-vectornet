@@ -23,8 +23,7 @@ composition:
   - type: blank
     data: examples.logos
   - type: pageMarkdown
-  - type: blank
-    data: panel
+  
 permalink: /
 ---
 ## About VectorNet
