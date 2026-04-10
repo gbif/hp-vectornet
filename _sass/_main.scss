@@ -2,3 +2,13 @@
 
 // You can add additional styling here
 @import "_example";
+
+/* Fix stats section background becasue its different from some reason*/
+section.contentTypesStat {
+  background-color: #ffffff !important;
+}
+
+/* making sure the inner containers don't override it  (optional)*/
+section.contentTypesStat .container {
+  background-color: transparent !important;
+}
