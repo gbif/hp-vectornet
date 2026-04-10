@@ -1,0 +1,15 @@
+stats:
+  description:
+  features:
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28size%3A%200%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">0</span>
+      description: Occurrence records
+      background: /assets/images/icons/occurence.png
+      href: /data
+    - title: <span data-ajax-path="data.occurrenceSearch.cardinality.datasetKey" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28size%3A%200%29%20%7B%0A%20%20%20%20cardinality%20%7B%0A%20%20%20%20%20%20datasetKey%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">0</span>
+      description: Datasets
+      background: /assets/images/icons/dataset.png
+      href: /data?view=datasets
+    - title: <span data-ajax-path="data.occurrenceSearch.cardinality.publishingOrgKey" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28size%3A%200%29%20%7B%0A%20%20%20%20cardinality%20%7B%0A%20%20%20%20%20%20publishingOrgKey%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">0</span>
+      description: Publishers
+      background: /assets/images/icons/publishers.png
+      #href: /publisher/search # need a dedicated page for publishers
