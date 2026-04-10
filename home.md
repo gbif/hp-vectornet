@@ -22,9 +22,9 @@ composition:
   - type: heroImage # the block type
   - type: blank
     data: examples.logos
-  - type: pageMarkdown
-    data: stats
   - type: stats
+    data: stats
+  - type: pageMarkdown
   
 permalink: /
 ---
