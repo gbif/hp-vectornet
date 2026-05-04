@@ -20,14 +20,14 @@ section.statistics::after {
 }
 
 .footer-partners img {
-  height: 60px;
-  width: 180px;        /* fixed width for all logos */
+  height: 100px;
+  width: 300px;        /* fixed width for all logos */
   object-fit: contain; /* scales without cropping or stretching */
 }
 
 .footer-partners-title {
   text-align: center;
-  font-size: 2.5rem;  /* adjust size here */
+  font-size: 2rem;  /* adjust size here */
   font-weight: bold;
 }
 
