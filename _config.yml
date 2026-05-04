@@ -201,8 +201,3 @@ defaults:
       layout: "post"
       permalink: "/it/post/:year/:slug/"
       lang: it
-
-collections: # upended this to add footer logos
-  partners:
-    output: false
-      
