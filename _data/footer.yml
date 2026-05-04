@@ -20,16 +20,13 @@ columns:
 
 
 
-  - name: ""
+
+- name: ""
     description: |
       <div class="footer-partners-wrapper">
         <h3 class="footer-partners-title">Help desk</h3>
-
         <div class="footer-contacts">
           <p>vector.help@efsa.epimundi.com</p>
-  #        <p>Street name</p>
-  #        <p>1234 postal code</p>
-  #        <p>Country</p>
         </div>
       </div>
 
