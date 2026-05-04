@@ -20,8 +20,6 @@ mobileToc: false
 height: 70vh
 composition:
   - type: heroImage # the block type
-  - type: blank
-    data: examples.logos
   - type: stats
     data: stats.stats
   - type: pageMarkdown
