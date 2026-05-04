@@ -11,15 +11,4 @@ section.statistics::before,
 section.statistics::after {
   background: transparent !important;
 }
-// adding logos to the navbar
-.navbar-end .navbar-item img {
-  height: 30px;
-  width: auto;
-  object-fit: contain;
-}
 
-.navbar-end .navbar-item {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
