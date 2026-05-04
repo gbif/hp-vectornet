@@ -20,12 +20,23 @@ section.statistics::after {
 }
 
 .footer-partners img {
-  height: 40px;
-  width: 120px;        /* fixed width for all logos */
+  height: 60px;
+  width: 180px;        /* fixed width for all logos */
   object-fit: contain; /* scales without cropping or stretching */
 }
 
 .footer-partners-title {
   text-align: center;
-  font-size: 1.5rem;  /* adjust to taste */
+  font-size: 2.5rem;  /* adjust size here */
+  font-weight: bold;
+}
+
+.footer-partners-wrapper,    /* trying to force white backrgound for footer section */
+footer,
+footer *,
+footer::before,
+footer::after,
+[class*="footer"] {
+  background: transparent !important;
+  background-color: transparent !important;
 }
