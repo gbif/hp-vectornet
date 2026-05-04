@@ -21,5 +21,10 @@ section.statistics::after {
 
 .footer-partners img {
   height: 40px;
-  width: auto;
+  width: 120px;        /* fixed width for all logos */
+  object-fit: contain; /* scales without cropping or stretching */
 }
+
+.footer-partners-title {
+  text-align: center;
+  font-size: 1.5rem;  /* adjust to taste */
