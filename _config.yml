@@ -180,3 +180,29 @@ defaults:
       layout: "post"
       permalink: "/it/post/:year/:slug/"
       lang: it
+  - scope:
+      path: "zh-tw/"
+    values:
+      lang: zh-tw
+  - scope:
+      path: "_posts/zh-tw"
+    values:
+      layout: "post"
+      permalink: "/zh-tw/post/:year/:slug/"
+      lang: zh-tw
+
+  - scope:
+      path: "it/"
+    values:
+      lang: it
+  - scope:
+      path: "_posts/it"
+    values:
+      layout: "post"
+      permalink: "/it/post/:year/:slug/"
+      lang: it
+
+collections: # upended this to add footer logos
+  partners:
+    output: false
+      
