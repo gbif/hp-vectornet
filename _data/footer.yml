@@ -2,28 +2,33 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-# columns:
-#   - name: Partners
-#     links:
-#     - text: Name of project partner 1
-#       href: http://example.com
-#     - text: Name of project partner 2
-#       href: http://example.com
 
-#   - name: Code
-#     description: | # Can be Markdown
-#       This project is open source. See `_data/footer.yml` to customize the footer.
+columns:
+  - name: Partners
+    description: |
+      <div class="footer-partners">
+        <a href="https://www.ecdc.europa.eu/en" target="_blank" rel="noopener noreferrer">
+          <img src="/assets/images/logo-ecdc.png" alt="ECDC logo" title="European Centre for Disease Prevention and Control (ECDC)">
+        </a>
+        <a href="https://www.efsa.europa.eu/en" target="_blank" rel="noopener noreferrer">
+          <img src="/assets/images/efsa.svg" alt="EFSA logo" title="European Food Safety Authority (EFSA)">
+        </a>
+      </div>
+
+  # - name: Code
+  #   description: | # Can be Markdown
+  #     This project is open source. See `_data/footer.yml` to customize the footer.
   
-#   - name: Contact
-#     description: | # Can be Markdown
-#       Social icons links defined in `_config.yml`
-#       * Street name
-#       * 1234 postal code
-#       * Country
-#     connectIcons: true
+  # - name: Contact
+  #   description: | # Can be Markdown
+  #     Social icons links defined in `_config.yml`
+  #     * Street name
+  #     * 1234 postal code
+  #     * Country
+  #   connectIcons: true
 
   # EXAMPLE
-  #- name: Group name
+  # - name: Group name
   #  description: |
   #    An optional description. Can be markdown
   #  links: # optional as well
@@ -32,6 +37,7 @@
   #  - text: link title 2
   #    href: http://example2.com
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
+
 
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
