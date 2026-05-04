@@ -12,6 +12,12 @@ section.statistics::after {
   background: transparent !important;
 }
 
+.footer-contacts {
+  text-align: center;
+  font-size: 2rem;  /* adjust size here */
+  font-weight: bold;
+}
+
 .footer-partners {
   display: flex;
   flex-direction: row;
