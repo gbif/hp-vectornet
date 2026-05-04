@@ -7,7 +7,7 @@ columns:
   - name: ""
     description: |
       <div class="footer-partners-wrapper">
-        <h3 class="footer-partners-title">Partners</h3>
+        <h3 class="footer-partners-title">Management</h3>
         <div class="footer-partners">
           <a href="https://www.ecdc.europa.eu/en" target="_blank" rel="noopener noreferrer">
             <img src="/assets/images/logo-ecdc.png" alt="ECDC logo" title="European Centre for Disease Prevention and Control (ECDC)">
@@ -18,6 +18,23 @@ columns:
         </div>
       </div>
 
+
+
+  - name: ""
+    description: |
+      <div class="footer-partners-wrapper">
+        <h3 class="footer-partners-title">Help desk</h3>
+
+        <div class="footer-contacts">
+          <p>vector.help@efsa.epimundi.com</p>
+  #        <p>Street name</p>
+  #        <p>1234 postal code</p>
+  #        <p>Country</p>
+        </div>
+      </div>
+
+
+  
   # - name: Code
   #   description: | # Can be Markdown
   #     This project is open source. See `_data/footer.yml` to customize the footer.
