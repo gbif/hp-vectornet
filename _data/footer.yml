@@ -21,7 +21,7 @@ columns:
 
 
 
-- name: ""
+  - name: ""
     description: |
       <div class="footer-partners-wrapper">
         <h3 class="footer-partners-title">Help desk</h3>
