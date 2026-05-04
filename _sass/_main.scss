@@ -14,8 +14,17 @@ section.statistics::after {
 
 .footer-contacts {
   text-align: center;
-  font-size: 2rem;  /* adjust size here */
+}
+
+.footer-contacts h3 {
+  font-size: 2rem;
   font-weight: bold;
+}
+
+.footer-contacts p {
+  font-size: 14px;
+  font-weight: normal;
+  color: #555;
 }
 
 .footer-partners {
