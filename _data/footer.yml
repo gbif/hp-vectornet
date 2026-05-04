@@ -23,11 +23,9 @@ columns:
 
   - name: ""
     description: |
-      <div class="footer-partners-wrapper">
-        <h3 class="footer-partners-title">Help desk</h3>
-        <div class="footer-contacts">
-          <p>vector.help@efsa.epimundi.com</p>
-        </div>
+      <div class="footer-contacts">
+        <h3>Help desk</h3>
+        <p>vector.help@efsa.epimundi.com</p>
       </div>
 
 
