@@ -27,24 +27,27 @@ section.statistics::after {
 //  color: #555;
 //}
 
+
+.footer-partners-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
 .footer-partners {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .footer-partners img {
-  height: 200px;
-  width: 600px;        /* fixed width for all logos */
-  object-fit: contain; /* scales without cropping or stretching */
+  height: 160px;
+  max-width: 300px;
+  width: 100%;
+  object-fit: contain;
 }
 
-.footer-partners-title {
-  text-align: center;
-  font-size: 1.5rem;  /* adjust size here */
-  font-weight: bold;
-}
 
 .footer-partners-wrapper,    /* trying to force white backrgound for footer section */
 footer,
