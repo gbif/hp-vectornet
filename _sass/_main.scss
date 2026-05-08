@@ -12,26 +12,26 @@ section.statistics::after {
   background: transparent !important;
 }
 
-.footer-contacts {
-  text-align: center;
-}
+//.footer-contacts {
+//  text-align: center;
+//}
 
-.footer-contacts h3 {
-  font-size: 2rem;
-  font-weight: bold;
-}
+//.footer-contacts h3 {
+//  font-size: 2rem;
+//  font-weight: bold;
+//}
 
-.footer-contacts p {
-  font-size: 14px;
-  font-weight: normal;
-  color: #555;
-}
+//.footer-contacts p {
+//  font-size: 14px;
+//  font-weight: normal;
+//  color: #555;
+//}
 
 .footer-partners {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 1.5rem;
+  gap: 1rem;
 }
 
 .footer-partners img {
@@ -42,7 +42,7 @@ section.statistics::after {
 
 .footer-partners-title {
   text-align: center;
-  font-size: 2rem;  /* adjust size here */
+  font-size: 1.5rem;  /* adjust size here */
   font-weight: bold;
 }
 
