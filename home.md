@@ -20,8 +20,8 @@ mobileToc: false
 height: 70vh
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: stats.stats
+#  - type: stats
+#    data: stats.stats removing stats sections because identifying by dataset key is expensive
   - type: pageMarkdown
   
 permalink: /
