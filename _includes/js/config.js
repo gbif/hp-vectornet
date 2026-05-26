@@ -16,7 +16,7 @@ var datasets = [
   '4a2e5415-dc09-47a2-8073-8503fb42eabd', '99cb9e37-4cf6-4525-977d-10080fb9e094', '48744dd9-d140-4248-b3ee-0233697de369',
   '6b02775d-cf87-4163-81f2-b4ac30f291ea', 'e8fcfedc-4ee0-43dd-a362-e124011dc875', 'dac737c4-f0e9-4448-8e96-b2b045df40a1',
   'e10d6f03-f668-43a8-819e-bb22e0b5e4c9', 'c3500a08-9be7-4384-a3b3-ec147135399b', '5226c4fa-f81c-42cc-b11a-429f10ed28fa',
-  '6c70361d-eefb-4f91-984e-28cb39bc1969', 'a8e52885-3c37-4c18-ae8f-2f2c535e6d4e', '48c0f475-61e6-4543-9cab-c67fae9000e2'
+  '6c70361d-eefb-4f91-984e-28cb39bc1969', 'a8e52885-3c37-4c18-ae8f-2f2c535e6d4e'
 ];
 
 // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
