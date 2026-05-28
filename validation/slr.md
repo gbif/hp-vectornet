@@ -17,7 +17,7 @@ The required columns and validation rules have been updated to meet SLR requirem
 
 #### Email address
 
-The email address for submitting SLR data is: [slr.validation\@efsa.epimundi.com](mailto:slr.validation@efsa.epimundi.com){.email}
+The email address for submitting SLR data is: [slr.validation@efsa.epimundi.com](mailto:slr.validation@efsa.epimundi.com)
 
 #### Required columns
 
