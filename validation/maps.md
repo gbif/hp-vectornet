@@ -3,7 +3,7 @@ title: "Interactive mapping interface"
 layout: default
 ---
 
-#Interactive mapping interface
+# Interactive mapping interface
 
 ## Introduction
 

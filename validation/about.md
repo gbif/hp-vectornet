@@ -38,7 +38,7 @@ A template is created using the link in any email sent to you from the tool.
 
 ![](/assets/images/template-button.png)
 
-1.  If you don't already have an email with the button, send a blank email to [vector.validation\@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com){.email}
+1.  If you don't already have an email with the button, send a blank email to [vector.validation@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com)
 2.  Click on the button to open the customisation web form
 3.  Submit the form to request the new template
 4.  A new template will be sent by email within a few minutes
@@ -53,9 +53,9 @@ Automated data validation checks for errors and warnings. You can send data for 
 
 1.  Enter your data into the Excel template
     - There are built-in checks for data validation within the template
-2.  Send your Excel file as an attachment to [vector.validation\@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com){.email}
+2.  Send your Excel file as an attachment to [vector.validation@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com)
 3.  You will receive a response within a few minutes
-    - If you do not receive a response within 10 minutes, contact the help desk at [vector.help\@efsa.epimundi.com](mailto:vector.help@efsa.epimundi.com){.email}
+    - If you do not receive a response within 10 minutes, contact the help desk at [vector.help@efsa.epimundi.com](mailto:vector.help@efsa.epimundi.com)
 4.  The response will include
     - Whether the data has been validated or not
     - A copy of the Excel file with comments and highlights, showing
