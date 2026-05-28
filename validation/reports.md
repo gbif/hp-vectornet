@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Validation rules and messages
+title: Activity Reports
 ---
+
+# Activity reports
 
 ## Introduction
 

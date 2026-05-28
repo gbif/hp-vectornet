@@ -3,6 +3,8 @@ layout: default
 title: Validation rules and messages
 ---
 
+# Validation rules and messages
+
 ## Introduction
 
 The automated validation tool checks a set of defined rules to validate the submitted data. Each rule has a code which you can look up below to explain the problem.

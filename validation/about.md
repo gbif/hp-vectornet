@@ -2,6 +2,7 @@
 layout: default
 title: About the Vector Data Validation Tool
 ---
+# About the Vector Data Validation Tool
 
 ## Introduction
 
@@ -95,7 +96,11 @@ It is sometimes difficult to keep track of all the versions that have been sent 
 
 To open a report, click on the 'Activity Report' button in any email that you receive. This will open a web form to specify the time period for the report.
 
-Each time period is referenced to today. \* Last week = the previous 7 days \* Last month = the previous 30 days \* Last year = the previous 365 days
+Each time period is referenced to today. 
+
+* Last week = the previous 7 days 
+* Last month = the previous 30 days 
+* Last year = the previous 365 days
 
 The report includes one row for each email sent to the validation tool. For full details on using the activity report, click the button below.
 

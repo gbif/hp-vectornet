@@ -2,13 +2,14 @@
 layout: default
 title: Columns 
 ---
+# Columns reference
 
 ## Introduction
 
 The table below lists all possible data entry columns alphabetically. It details their purpose, valid formats, and indicates whether they are required for **Vector Data** and/or **SLR** data submissions.
 
 | Column | Vector Data | SLR | Description |
-|:---|:---|:---|:---|
+|:-----------------|:-----------------|:-----------------|:-----------------|
 | <a id="associatedtaxa"></a>*associatedTaxa* | 🔴 Required | ⚪ Optional | Provide host species scientific name (only for vector collected on hosts, otherwise leave blank). If the name is not recognised, contact the help desk to add new species names to the standard list. |
 | <a id="bibliographiccitation"></a>*bibliographicCitation* | ⚪ Optional | 🔴 Required | A bibliographic reference for the resource. When available, use a DOI in the standard format. |
 | <a id="collectioneffortenddate"></a>*CollectionEffortEndDate* | 🔴 Required | 🔴 Required | Date on which the event ended. This must be in a format recognised by Excel as a date (depends on software localisation) |

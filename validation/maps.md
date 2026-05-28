@@ -3,6 +3,8 @@ title: "Interactive mapping interface"
 layout: default
 ---
 
+#Interactive mapping interface
+
 ## Introduction
 
 Any email you receive after submitting data to the automated validation tool includes a link to view the data on a map.
