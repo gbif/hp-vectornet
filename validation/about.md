@@ -81,9 +81,9 @@ Two outcomes are possible:
 
 ![](/assets/images/vdv-map.png)
 
-When data is submitted for manual validation, an online map is created allowing you to visualise your data.
+When data is submitted for automated validation, an online map is created allowing you to visualise your data.
 
-To view the map, click on the button in the response email. To learn more about interactive mapping, click the buttton below:
+To view the map, click on the button in the response email. To learn more about interactive mapping, click the button below:
 
 [Interactive maps]({{ '/validation/maps' \| relative_url }}){: .button .is-primary}
 

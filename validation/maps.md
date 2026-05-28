@@ -24,13 +24,13 @@ Click on the "View Sampling Sites" button in any email you receive from the syst
 You can turn on and off different layers:
 
 - NUTS Boundaries
-  - Add or remove the NUTS / GAUL administrative subdivision boundaries
+  - Display or hide the NUTS / GAUL administrative subdivision boundaries
   - These allow you to determine if the sampling site is in the right administrative subdivision
 - NUTS labels
-  - Add or remove the NUTS / GAUL code
+  - Display or hide the NUTS / GAUL code
   - These allow you to check if the sampling site code is correct
 - Valid sites
-  - Add or remove the location of valid sampling sites (marked as a green circle)
+  - Display or hide the location of valid sampling sites (marked as a green circle)
 
 ![](/assets/images/map-distribution.png){: style="max-width: none; width: auto;" }
 
