@@ -21,7 +21,7 @@ The email address for submitting SLR data is: [slr.validation@efsa.epimundi.com]
 
 #### Required columns
 
-The required and optional columns are slightly different from the standard data validation. Check the [columnns](/validation/columns/) reference for details.
+The required and optional columns are slightly different from the standard data validation. Check the [columns](/validation/columns/) reference for details.
 
 #### Validation rules
 
