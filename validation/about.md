@@ -31,22 +31,22 @@ A customised Excel data entry template allows users to set the country (or count
 
 You can create new templates whenever needed
 
-![](../assets/images/vdv-download-template.png)
+![](/assets/images/vdv-download-template.png)
 
 A template is created using the link in any email sent to you from the tool.
 
-![](../assets/images/template-button.png)
+![](/assets/images/template-button.png)
 
 1.  If you don't already have an email with the button, send a blank email to [vector.validation\@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com){.email}
 2.  Click on the button to open the customisation web form
 3.  Submit the form to request the new template
 4.  A new template will be sent by email within a few minutes
 
-![](../assets/images/customisation-form.png)
+![](/assets/images/customisation-form.png)
 
 ### Submit data for automated validation {#submit-data-for-automated-validation}
 
-![](../assets/images/vdv-submit-automated-validation.png)
+![](/assets/images/vdv-submit-automated-validation.png)
 
 Automated data validation checks for errors and warnings. You can send data for automated validation as many times as you like. To validate data:
 
@@ -79,7 +79,7 @@ Two outcomes are possible:
 
 ### View interactive map of submitted data {#view-interactive-map-of-submitted-data}
 
-![](../assets/images/vdv-map.png)
+![](/assets/images/vdv-map.png)
 
 When data is submitted for manual validation, an online map is created allowing you to visualise your data.
 
@@ -89,7 +89,7 @@ To view the map, click on the button in the response email. To learn more about 
 
 ### Review report of activity {#review-report-of-activity}
 
-![](../assets/images/vdv-report.png)
+![](/assets/images/vdv-report.png)
 
 It is sometimes difficult to keep track of all the versions that have been sent to the system. To see a full history of your use of the validation tool, you can see online reports of your activity.
 
@@ -103,7 +103,7 @@ The report includes one row for each email sent to the validation tool. For full
 
 ### Submit data for manual validation {#submit-data-for-manual-validation}
 
-![](../assets/images/vdv-submit-manual-validation.png)
+![](/assets/images/vdv-submit-manual-validation.png)
 
 Once data has passed automated validation, and you are confident that any warnings or alerts do not represent errors, you can submit the data for manual validation by the vector group reference entomologist.
 
@@ -111,7 +111,7 @@ All you need to do is click the button on the response email, and confirm submis
 
 ### Review feedback from reference entomologists {#review-feedback-from-reference-entomologists}
 
-![](../assets/images/vdv-feedback.png)
+![](/assets/images/vdv-feedback.png)
 
 Once the reference entomologist has reviewed and validated the data, they will send feedback through the validation tool. There are two possible outcomes:
 

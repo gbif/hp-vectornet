@@ -11,13 +11,13 @@ The tool provides users with access to comprehensive activity reports which can 
 - Track the validation results
 - Download copies of submitted and returned spreadsheets to check data versions
 
-![](../assets/images/report.png)
+![](/assets/images/report.png)
 
 ## Accessing the reports
 
 Every email has a link to access the reports. Simply click on the link, specify the required time period, and view the report
 
-![](../assets/images/report-button.png)
+![](/assets/images/report-button.png)
 
 ## Report interface
 
