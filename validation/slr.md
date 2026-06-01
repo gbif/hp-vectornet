@@ -13,13 +13,18 @@ The vector data validation system has been expanded to enable data from systemat
 
 #### Data submission workbook template
 
-An Excel data submission template has been developed for each vector species group. This contains reference tables for all countries, allowing data to be submitted from anywhere in the same worksheet.
+An Excel data submission template has been developed for each vector species group. This contains reference tables for all countries, allowing data to be submitted from anywhere in the same worksheet. Download templates using these links.
+
+- [Mosquitoes](/assets/templates/SLR%20template%20mosquitoes.xlsx)
+- [Ticks](/assets/templates/SLR%20template%20ticks.xlsx)
+- [Midges](/assets/templates/SLR%20template%20midges.xlsx)
+- [Sandflies](/assets/templates/SLR%20template%20sandflies.xlsx)
 
 The required columns and validation rules have been updated to meet SLR requirements (see below).
 
 #### Email address
 
-The email address for submitting SLR data is: [slr.validation@efsa.epimundi.com](mailto:slr.validation@efsa.epimundi.com)
+The email address for submitting SLR data is: [slr.validation\@efsa.epimundi.com](mailto:slr.validation@efsa.epimundi.com)
 
 #### Required columns
 
