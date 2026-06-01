@@ -11,7 +11,7 @@ title: Frequently Asked Questions
 
 - Click the **"Request a Customised Spreadsheet Template"** link in the footer of any email from the system.
 - This opens a form where you can select specific countries, vector groups, and optional columns.
-- If you don’t already have an email from the system, send an email with a blank spreadsheet attached to [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com){.email}.
+- If you don’t already have an email from the system, send a blank email to [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com){.email}.
 
 ### How do I submit my data for validation?
 
@@ -48,7 +48,10 @@ title: Frequently Asked Questions
 
 ### What should I do after correcting issues identified by the reference entomologist?
 
-The validation tool tracks interactions and keeps a copy of validated data. \* ✅ **DO** resend your data to the validation tool ([vector.validation\@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com){.email}) to do a final check for errors, and, if it passes, resubmit your data to the reference entomologist \* ❌ **DON’T** send your data via email directly to the reference entomologist.
+The validation tool tracks interactions and keeps a copy of validated data. 
+
+* ✅ **DO** resend your data to the validation tool ([vector.validation\@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com){.email}) to do a final check for errors, and, if it passes, resubmit your data to the reference entomologist \
+* ❌ **DON’T** send your data via email directly to the reference entomologist.
 
 ------------------------------------------------------------------------
 
@@ -77,7 +80,12 @@ The validation tool tracks interactions and keeps a copy of validated data. \* �
 
 ### Where do I send the file once I have finished my review?
 
-- Email the manually validated workbook back to the **original data provider**.
+- Click the link in the email you received "Send Response to Submitting Entomologist"
+- This will open a web form
+    - Indicate if the data has been validated or not
+    - If not validated, add and explanation of the changes required
+    - Upload the Excel file
+- This will send a message to the submitting entomologist with instructions on what to do next.
 - They are responsible for the final upload to the GBIF repository.
 
 ### How do I add a new species to the system's permanent reference list?

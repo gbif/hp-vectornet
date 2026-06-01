@@ -38,7 +38,7 @@ You can turn on and off different layers:
 
 - Vector distribution
   - Species included in your data submission are listed
-  - Select one species to display that distribution of that species
+  - Select one species to display the distribution of that species
   - Select **None** to hide the distribution layer
 
 ## Vector distribution
@@ -79,7 +79,7 @@ The following symbols / colours are used in the vector distribution layers. Colo
 - Pan
   - Click and drag
 - Site name
-  - Float mouse over site
+  - Hover the mouse over a site
 
 ### Site attributes
 

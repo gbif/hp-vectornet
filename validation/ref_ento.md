@@ -51,8 +51,8 @@ If the data is scientifically sound, follow these steps to finalize the workbook
 3.  **Return the File**: Click on the link in the email to provide feedback to the data provider. This will open a web form.
     - Specify if the data has been validated or if there are still errors
     - If there are still errors, add a note to explain what needs to be corrected
-    - Upload the annotate version of the spreadsheet
-    - Click send to have the data sent automatically to the submitter.
+    - Upload the annotated version of the spreadsheet
+    - Click Send to have the data sent automatically to the submitter.
 
 ### When problems are found
 

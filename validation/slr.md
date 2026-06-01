@@ -27,7 +27,7 @@ The required and optional columns are slightly different from the standard data 
 
 #### Validation rules
 
-A new set of validation rules has been created, adapted to the SLR. In particular these check for *bibliographicCitation* and *occurrenceRemarks*. See the [rules](/validation/rules/) documentation for more details.
+A new set of validation rules has been created, adapted to the SLR. In particular, these check for *bibliographicCitation* and *occurrenceRemarks*. See the [rules](/validation/rules/) documentation for more details.
 
 ## What hasn't changed?
 

@@ -38,7 +38,7 @@ The report tracks the full life-cycle of data within the validation tool. Each r
 
 Basic information about the email submitted:
 
-- **Submitted**: Date/time email was recieved by the system.
+- **Submitted**: Date/time email was received by the system.
 - **Sender Email**: Email address of the data provider.
 - **Attachment**: Whether there was an attachment
 - **SLR**: Whether this was a submission for the SLR validation rule-set.
@@ -64,7 +64,7 @@ Information about the outcome of the automated validation:
 
 ### Manual validation
 
-- **Submitted for Manual Validation**: The data/time the data was submitted for manual validation
+- **Submitted for Manual Validation**: The date/time the data was submitted for manual validation
 - **Validated by**: The email address of the reference entomologist that did the manual validation
 - **Validated on**: The date/time the manual validation was completed
 - **Validation status**: Whether the data was successfully validated or if problems were detected
