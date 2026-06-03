@@ -129,3 +129,28 @@ To simplify data entry, you can generate a custom template for specific countrie
 3.  Click **"Submit"**.
 4.  The system will email you a new template with pre-filtered reference lists.
 5.  If working with multiple vector groups, download a separate customized spreadsheet for each group.
+
+### Submitting More Than One Vector Group in a Spreadsheet
+
+The spreadsheet templates are designed for use with only a single vector group. This is because
+they are validated by a reference entomologist specialising in that group.  You are strongly encouraged 
+to use the system in this way. 
+
+**However**, it is possible to submit an Excel template with more than one vector groups, if this
+is necessary for your work flow. The system will split the data into multiple spreadsheets so they
+can be separately validated (both automatically by the system, then manually by the reference entomologist). 
+
+In order to submit multiple vector groups:
+
+1. Manually add a new column to the **1. DATA INPUT** tab of your existing spreadsheet template. The column header must be **vectorGroup**.
+2. For each row, enter the name of the vector group. The names must exactly match an item from the following list
+    * Mosquitoes
+    * Ticks
+    * Midges
+    * Sandflies
+3. Don't change the name of the tab (worksheet). The vector group name in the tab will be ignored if the **vectorGroup** column is present
+4. Submit your data in the usual way, sending it by email to vector.validation@efsa.epimundi.com
+
+If there are problems with the content of the **vectorGroup** column, you will receive an email identifying the problems (e.g. invalid entries or missing entries). Fix the problem and resend. 
+
+If the vector group data is valid, the spreadsheet will be rewritten to multiple spreadsheets, with the same name plus the vector group, and automatically submitted for validation. You will receive multiple response messages. 

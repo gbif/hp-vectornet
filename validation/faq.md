@@ -17,6 +17,11 @@ title: Frequently Asked Questions
 
 - Complete your data entry in the **1.DATA INPUT-Ticks** (or relevant vector group) worksheet of the Excel template and email the file to [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com){.email}.
 
+### Can I sumbit more than one vector group in the same spreadsheet?
+
+- Preferably not, but it is possible. 
+- See the [Submitter's Guide](/validation/sumbmitters#submitting-more-than-one-vector-group-in-a-preadsheet)
+
 ### What should I do if my submission fails validation?
 
 - You will receive a **"Validation Failed"** email with an annotated spreadsheet.
@@ -28,10 +33,10 @@ title: Frequently Asked Questions
 - **Warnings** are unusual data that could nevertheless be correct. They should be checked (and corrected if they are mistakes).
 - If they are correct, you are able to submit your data to the reference entomologists with warnings.
 
-### What is the "Validation Map" for?
+### What is the "Vew Spatial Errors" or "View Sampling Sites" button for?
 
-- It visually plots your coordinates to help you identify spatial errors, such as points falling outside the specified country.
-- It is only provided if the system detects spatial errors or warnings.
+- It opens an interactive mapping interface identify spatial errors, such as points falling outside the specified country or with an incorrect NUTS code.
+- You can also see the distribution of sampling sites and map the VectorNet species distribution maps for species identified in your data. 
 
 ### Can I report a species that is not in the dropdown list?
 
