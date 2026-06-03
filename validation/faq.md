@@ -11,11 +11,11 @@ title: Frequently Asked Questions
 
 - Click the **"Request a Customised Spreadsheet Template"** link in the footer of any email from the system.
 - This opens a form where you can select specific countries, vector groups, and optional columns.
-- If you don’t already have an email from the system, send a blank email to [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com){.email}.
+- If you don’t already have an email from the system, send a blank email to [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com).
 
 ### How do I submit my data for validation?
 
-- Complete your data entry in the **1.DATA INPUT-Ticks** (or relevant vector group) worksheet of the Excel template and email the file to [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com){.email}.
+- Complete your data entry in the **1.DATA INPUT-Ticks** (or relevant vector group) worksheet of the Excel template and email the file to [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com).
 
 ### Can I sumbit more than one vector group in the same spreadsheet?
 
@@ -55,7 +55,7 @@ title: Frequently Asked Questions
 
 The validation tool tracks interactions and keeps a copy of validated data. 
 
-* ✅ **DO** resend your data to the validation tool ([vector.validation\@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com){.email}) to do a final check for errors, and, if it passes, resubmit your data to the reference entomologist \
+* ✅ **DO** resend your data to the validation tool ([vector.validation\@efsa.epimundi.com](mailto:vector.validation@efsa.epimundi.com)) to do a final check for errors, and, if it passes, resubmit your data to the reference entomologist
 * ❌ **DON’T** send your data via email directly to the reference entomologist.
 
 ------------------------------------------------------------------------

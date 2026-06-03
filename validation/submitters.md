@@ -47,7 +47,7 @@ If you are reporting a host or vector species that is not in the dropdown list, 
 1.  Complete all your data entry in the **1.DATA INPUT-Ticks** worksheet.
 2.  Save the Excel file.
 3.  Create a new email and attach the saved file.
-4.  Send the email to the system's validation address: [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com){.email}.
+4.  Send the email to the system's validation address: [**vector.validation\@efsa.epimundi.com**](mailto:vector.validation@efsa.epimundi.com).
 
 ### Interpreting the Validation Response (Errors Found)
 
@@ -108,7 +108,7 @@ Once your dataset has received final expert validation, publish the dataset on *
 
 ### Pulling the Dataset into the VectorNet Data portal
 
-After publication of the dataset on GBIF, please send an email to [**biohaw\@efsa.europa.eu**](mailto:biohaw@efsa.europa.eu){.email} to ensure that your dataset can be pulled into the VectorNet Data Portal on GBIF.
+After publication of the dataset on GBIF, please send an email to [**biohaw\@efsa.europa.eu**](mailto:biohaw@efsa.europa.eu) to ensure that your dataset can be pulled into the VectorNet Data Portal on GBIF.
 
 The **"Subject"** should read *“VectorNet validated dataset to be pulled on GBIF VectorNet Data Portal”* and the URL link to your published GBIF dataset should be pasted into the body of the email:
 
