@@ -26,7 +26,7 @@ The table below lists all possible data entry columns alphabetically. It details
 | <a id="highergeographyid"></a>*higherGeographyID* | 🔴 Required | 🔴 Required | NUTS3 code (or equivalent GAUL identifier) of the sampling event. Use only valid values from the standard list. In case of error, check the interactive map interface to identify the correct code. |
 | <a id="identificationremarks"></a>*identificationRemarks* | ⚪ Optional | ⚪ Optional | Remark about the vector identification, i.e. the method used for vector identification. |
 | <a id="identifiedbyid"></a>*identifiedByID* | ⚪ Optional | ⚪ Optional | A list (concatenated and separated) of the globally unique identifier for the person, people, groups, or organizations responsible for assigning the dwc:Taxon to the subject. |
-| <a id="individualcount"></a>*individualCount* | 🔴 Required | ⚪ Optional | The number of individuals of the specific vector species caught during the specific sample event. |
+| <a id="individualcount"></a>*individualCount* | 🔴 Required | ⚪ Optional | TThe number of individuals of the specified vector species associated with this occurrence (= this row). Summing individualCount across all occurrences yields the total number of vectors collected.|
 | <a id="lifestage"></a>*lifeStage* | ⚪ Optional | ⚪ Optional | The life stage of the organism(s) at the time the occurrence was recorded. Select from the standard list. |
 | <a id="locality"></a>*locality* | ⚪ Optional | ⚪ Optional | Description of the surveillance site where the sample event(s) took place. Free text. |
 | <a id="locationaccordingto"></a>*locationAccordingTo* | ⚪ Optional | 🔴 Required | Provide the source of location information (GPS or centroid). |
