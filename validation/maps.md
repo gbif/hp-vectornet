@@ -52,18 +52,17 @@ The following symbols / colours are used in the vector distribution layers. Colo
   - Invasive are shown with diagonal stripes
 - Present
   - Show in brown
-  - Established - dark brown
-  - Introduced - light brown
+  - `Native - Present` and `Invasive - Established` - dark brown
+  - `Introduced` - light brown
 - Absent
   - Shown in green
-  - Absent - dark green
-  - Observed absent - mid green
-  - Anticipated absent - light green
+  - `Absent` and `Observed absent` - dark green
+  - `Anticipated absent` - light green
 - Absence of information
   - Shown in grey or clear
   - Data absent from the database - no colour
-  - No data (as noted in the database) - dark grey
-  - Unknown (as noted in the database) - light grey
+  - `No data` (as noted in the database) - dark grey
+  - `Unknown` (as noted in the database) - light grey
 
 ## Map interaction
 
