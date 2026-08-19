@@ -31,7 +31,7 @@ The table below lists all possible data entry columns alphabetically. It details
 | <a id="locality"></a>*locality* | ⚪ Optional | ⚪ Optional | Description of the surveillance site where the sample event(s) took place. Free text. |
 | <a id="locationaccordingto"></a>*locationAccordingTo* | ⚪ Optional | 🔴 Required | Provide the source of location information (GPS or centroid). |
 | <a id="locationremarks"></a>*locationRemarks* | ⚪ Optional | ⚪ Optional | Indoor/outdoor collection of the vector species |
-| <a id="occurrenceremarks"></a>*occurrenceRemarks* | ⚪ Optional | 🔴 Required | User-reported vector distribution status. For SLR, use values from the standard list |
+| <a id="occurrenceremarks"></a>*occurrenceRemarks* | ⚪ Optional | ⚪ Optional | User-reported vector distribution status. For SLR, use values from the standard list |
 | <a id="projectid"></a>*projectID* | 🔴 Required | ⚪ Optional | A unique identifier for the project from which a dataset is derived. This should include the standard EFSA-assigned project ID, but may also include country- or institution-specific identifiers, separated by \| |
 | <a id="recordnumber"></a>*recordNumber* | ⚪ Optional | ⚪ Optional | Automatically generated record ID. Do not delete this column. |
 | <a id="samplesizeunit"></a>*sampleSizeUnit* | 🔴 Required | ⚪ Optional | The unit in which the intensity of the vector collection effort is expressed. Select from the standard list. |
