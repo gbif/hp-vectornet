@@ -37,7 +37,7 @@ VectorNet started in May 2014, and is now running its third iteration (2024–20
 
 VectorNet maintains a common database on the presence and distribution of vectors across Europe and the Mediterranean basin. This database is uploaded periodically on the GBIF VectorNet Data portal. 
 
-The primary outputs of VectorNet have been, and continue to be, the vector distribution maps at [www.ecdc.europa.eu/en/disease-vectors](https://www.ecdc.europa.eu/en/disease-vectors/) and [www.efsa.europa.eu/en/topics/topic/vector-borne-diseases] (https://www.efsa.europa.eu/en/topics/topic/vector-borne-diseases). The project also provides ad-hoc scientific advice to support ECDC and EFSA with technical questions on entomological aspects of vector-borne diseases in humans and animals. There are also many reports and tools produced by the VectorNet, many of these organized on the VectorNet website at [www.ecdc.europa.eu/en/disease-vectors](https://www.ecdc.europa.eu/en/disease-vectors/](https://www.ecdc.europa.eu/en/about-us/partnerships-and-networks/disease-and-laboratory-networks/vector-net) but others published by EFSA in their journals. The project is operated by a consortium of the following experts:
+The primary outputs of VectorNet have been, and continue to be, the vector distribution maps at www.ecdc.europa.eu/en/disease-vectors and www.efsa.europa.eu/en/topics/topic/vector-borne-diseases. The project also provides ad-hoc scientific advice to support ECDC and EFSA with technical questions on entomological aspects of vector-borne diseases in humans and animals. There are also many reports and tools produced by the VectorNet, many of these organized on the [VectorNet website](https://www.ecdc.europa.eu/en/about-us/partnerships-and-networks/disease-and-laboratory-networks/vector-net) but others published by EFSA in their journals. The project is operated by a consortium of the following experts:
 ## VectorNet experts
 
 | Expertise         | Lead                   | Deputy                 |
@@ -55,8 +55,9 @@ The primary outputs of VectorNet have been, and continue to be, the vector distr
 | Geographic Information Systems           | William Wint            | Cedric Marsboom       |
 | Project management | Cedric Marsboom      | Marieta Braks         |
 
-The VectorNet project brings operational contact points for entomology of ECDC’s [European Emerging and Vector-borne Diseases Network] (https://www.ecdc.europa.eu/en/about-ecdc/partners-and-networks/disease-and-laboratory-networks/european-emerging-and-vector-borne) together with EFSA’s [Network on Veterinary Entomology] (https://www.efsa.europa.eu/sites/default/files/2024-03/terms-reference-veterinary-entomology-network-2024-2027.pdf) into the **One-Health VectorNet Entomological Network (OHVEN)**. 
+The VectorNet project brings operational contact points for entomology of ECDC's [European Emerging and Vector-borne Diseases Network](https://www.ecdc.europa.eu/en/about-ecdc/partners-and-networks/disease-and-laboratory-networks/european-emerging-and-vector-borne) together with [EFSA’s  Network on Veterinary Entomology](https://www.efsa.europa.eu/sites/default/files/2024-03/terms-reference-veterinary-entomology-network-2024-2027.pdf) into the **One-Health VectorNet Entomological Network (OHVEN)**. 
 
 The OHVEN network works closely together with the **Animal Health network (AWN)** of EFSA, and more in particular, with the sub-group on One health surveillance. Vector surveillance data collected in the EU by this subgroup are also validated by VectorNet and uploaded onto the GBIF VectorNet Data portal.
 
-Further details of AHW network: [Risk Assessment in Animal Health and Welfare (AHAW) network and its subgroups] ([Risk Assessment in Animal Health and Welfare (AHAW) network and its subgroups.](https://www.efsa.europa.eu/en/science/scientific-committee-and-panels/ahaw)
+For further details of the AHW network, see: [Risk Assessment in Animal Health and Welfare (AHAW) network and its subgroups](https://www.efsa.europa.eu/en/sc)
+.
