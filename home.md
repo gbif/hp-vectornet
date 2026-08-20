@@ -27,18 +27,17 @@ composition:
 permalink: /
 ---
 ## About VectorNet
-VectorNet is a project of the European Centre for Disease Control (ECDC) and the European Food Safety Authority (EFSA) which aims to contribute to improving preparedness and response for vector-borne diseases, following a ‘One-Health’ approach. The VectorNet consortium brings together a network of medical entomologists and public health professionals, together with veterinary entomologists and veterinarians working the field of vector-borne disease in Europe and the countries surrounding the Mediterranean Basin. The project also provides ad-hoc scientific advice to support ECDC and EFSA with technical questions on vector surveillance and vector-borne disease in humans and animals.
+Climate change and changing ecological conditions, as well as trade and travel, influence the spread of arthropod vectors, creating favourable conditions for vector-borne diseases in previously unaffected areas. Since the presence of competent vectors is a prerequisite for the transmission of strictly vector-borne diseases, knowledge about vector distribution is of primordial importance for disease prevention and control.
 
-VectorNet started in May 2014, and is now running its third iteration (2024–2029). VectorNet supports the collection of data on vectors and pathogens in vectors related to both animal and human health. The project is structured in 5 work packages, fostering Collaboration, Preparedness, Agility, Communication and Project coordination and management.
+VectorNet is a project of the European Centre for Disease Prevention and Control (ECDC) and the European Food Safety Authority (EFSA) which aims to contribute to improving preparedness for and response to vector-borne diseases, following a ‘One-Health’ approach.
+
+VectorNet started in May 2014, and is now running its third iteration (2024–2028). VectorNet supports the collection of data on vectors related to both animal and human health. The project is structured in five work packages, fostering Collaboration, Preparedness, Agility, Communication and Project coordination and management.
 
 ![](/assets/images/vn1.png){:standalone .has-text-centered}
 
-Vectornet maintains a common database on the presence and distribution of vectors and pathogens in vectors across Europe and the Mediterranean basin. The project is operated by a consortium including the following VectorNet experts. The vectornet database is uploaded periodically on the GBIF Vectornet Data portal. 
+VectorNet maintains a common database on the presence and distribution of vectors across Europe and the Mediterranean basin. This database is uploaded periodically on the GBIF VectorNet Data portal. 
 
-The primary outputs of VectorNet have been, and continue to be, the Vector maps at [www.ecdc.europa.eu/en/disease-vectors](https://www.ecdc.europa.eu/en/disease-vectors/)
-
-There are also many more reports and tools produced by the VectorNet, many of these organized on the VectorNet website at [www.ecdc.europa.eu/en/disease-vectors](https://www.ecdc.europa.eu/en/disease-vectors/) but others published by EFSA in their journals. A list of VectorNet experts appear below:
-
+The primary outputs of VectorNet have been, and continue to be, the vector distribution maps at [www.ecdc.europa.eu/en/disease-vectors](https://www.ecdc.europa.eu/en/disease-vectors/) and [www.efsa.europa.eu/en/topics/topic/vector-borne-diseases] (https://www.efsa.europa.eu/en/topics/topic/vector-borne-diseases). The project also provides ad-hoc scientific advice to support ECDC and EFSA with technical questions on entomological aspects of vector-borne diseases in humans and animals. There are also many reports and tools produced by the VectorNet, many of these organized on the VectorNet website at [www.ecdc.europa.eu/en/disease-vectors](https://www.ecdc.europa.eu/en/disease-vectors/](https://www.ecdc.europa.eu/en/about-us/partnerships-and-networks/disease-and-laboratory-networks/vector-net) but others published by EFSA in their journals. The project is operated by a consortium of the following experts:
 ## VectorNet experts
 
 | Expertise         | Lead                   | Deputy                 |
@@ -47,25 +46,17 @@ There are also many more reports and tools produced by the VectorNet, many of th
 | Ticks           | Annapaola Rizzoli       | Kayleigh Hansford      |
 | Sand flies      | Vít Dvořák              | Bulent Alten          |
 | Culicoides      | Thomas Balenghien       | Maria Goffredo        |
-| Vector Control  | Antonios Michaelakis    | Francis Schaffner      |
+| Vector control  | Antonios Michaelakis    | Francis Schaffner      |
 | Epidemiology    | René Bødker             | Veerle Vanlerberghe   |
 | Trials         | Veerle Vanlerberghe     | Wim Van Bortel        |
 | Data analysis   | Kamil Erguler           | Cedric Marsboom       |
-| SLR            | Wim Van Bortel          | Francesca Dagostin    |
-| Data manager   | Tom Matheussen          | William Wint          |
-| GIS            | William Wint            | Cedric Marsboom       |
+| Systematic literature Review            | Wim Van Bortel          | Francesca Dagostin    |
+| Data management   | Tom Matheussen          | William Wint          |
+| Geographic Information Systems           | William Wint            | Cedric Marsboom       |
 | Project management | Cedric Marsboom      | Marieta Braks         |
 
-## Related networks
+The VectorNet project brings operational contact points for entomology of ECDC’s [European Emerging and Vector-borne Diseases Network] (https://www.ecdc.europa.eu/en/about-ecdc/partners-and-networks/disease-and-laboratory-networks/european-emerging-and-vector-borne) together with EFSA’s [Network on Veterinary Entomology] (https://www.efsa.europa.eu/sites/default/files/2024-03/terms-reference-veterinary-entomology-network-2024-2027.pdf) into the **One-Health VectorNet Entomological Network (OHVEN)**. 
 
-Climate change and changing ecological conditions, as well as trade and travel, influence the spread of arthropod vectors, creating favourable conditions for the vector-borne diseases in previously unaffected areas. Since the presence of competent vectors is a prerequisite for the transmission of strictly vector-borne diseases, knowledge about their distribution is of primordial importance for their prevention and control. 
+The OHVEN network works closely together with the **Animal Health network (AWN)** of EFSA, and more in particular, with the sub-group on One health surveillance. Vector surveillance data collected in the EU by this subgroup are also validated by VectorNet and uploaded onto the GBIF VectorNet Data portal.
 
-After eight years of intense collaboration on VBDs, through two consecutive inter-institutional framework contracts, ECDC and EFSA joined forces to support a third iteration of VectorNet. 
-
-Besides the well-known vector distribution maps and capacity building in the EU Member States on vector surveillance, one of the strongest pillars of Vectornet is the fostering **One-Health Vectornet Entomological Network (OHVEN)**. The OHVEN is composed of ECDCs **Operational Contact Points (OCPs)** for entomology and EFSAs **Network on Veterinary Entomology (NVE).** 
-
-The OCPs are nominated by ECDC National Coordinators and represent the entomologists working in the public health sector to combat VBDs. The NVE members are appointed by EFSA and represent entomologists working in the veterinary health sector. 
-
-The OHVEN network works closely together with the **Animal Health and Welfare network** of EFSA, and more in particular, with the sub-group on One health surveillance. Vector surveillance data collected byt the One health surveillance subgroup in the EU member states are also validated by Vectornet and uploaded on the GBIF Vectornet Data portal.
-
-Further details of AHW network: [Risk Assessment in Animal Health and Welfare (AHAW) network and its subgroups](https://www.efsa.europa.eu/sites/default/files/2024-08/Risk_Assessment_Animal_Health_Welfare_AHAW%29_network_and_subgroups_members%20%281%29.pdf)
+Further details of AHW network: [Risk Assessment in Animal Health and Welfare (AHAW) network and its subgroups] ([Risk Assessment in Animal Health and Welfare (AHAW) network and its subgroups.](https://www.efsa.europa.eu/en/science/scientific-committee-and-panels/ahaw)
