@@ -14,7 +14,7 @@
   - text: Sandflies
     href: /occurrence/search?taxonKey=9164
 
-- text: Shapefiles        # adding downloadable resources section
+- text: Additional resources        # adding downloadable resources section
   href: /downloads
 
 - text: Validation Tool

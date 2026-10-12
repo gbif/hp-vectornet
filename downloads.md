@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downloads
-description: Shapefiles and additional resources
+description: Additional resources
 background: "/assets/images/europe_banner.jpg"
 composition:
   - type: heroImage
@@ -30,7 +30,7 @@ Administrative boundaries: ©EuroGeographics ©UN-FAO ©Turkstat.
 
 #### Shapefile with VectorNet mapping polygons (2021)
 
-This shapefile is associated with the dataset [VectorDistributionStatus](https://www.vectornetdata.org/occurrence/search/?view=datasets&entity=d_b2390da7-9704-4215-b038-3727df6e7fee).
+This shapefile is associated with the dataset [VectorDistributionStatus_2025](https://www.vectornetdata.org/occurrence/search/?view=datasets&entity=d_b2390da7-9704-4215-b038-3727df6e7fee).
 
 
 Mapping polygons correspond to 'regional' administrative units:
@@ -47,7 +47,7 @@ The NUTS system used is the [2021 version](https://ec.europa.eu/eurostat/web/nut
 Administrative boundaries: ©EuroGeographics ©UN-FAO ©Turkstat.
 </p>
 
-[Download shapefile (.zip)](assets/shapefiles/VectorDistributionsStatusMap2021NUTS3shp.zip){: .button}
+[Download shapefile (.zip)](assets/shapefiles/VectorDistributionsStatusMap2021NUTS3shp.zip){: .button .is-primary}
 
 
 
