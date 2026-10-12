@@ -45,6 +45,7 @@ The NUTS system used is the [2021 version](https://ec.europa.eu/eurostat/web/nut
 
 <p class="text-muted" style="font-size: 0.85em;">
 Administrative boundaries: ©EuroGeographics ©UN-FAO ©Turkstat.
+</p>
 
 [Download shapefile (.zip)](assets/shapefiles/VectorDistributionsStatusMap2021NUTS3shp.zip){: .button}
 
